@@ -1,0 +1,367 @@
+% \documentclass{article}
+% \usepackage{array}
+% \usepackage{caption}
+% \usepackage{graphicx}
+% \usepackage{siunitx}
+% \usepackage[normalem]{ulem}
+% \usepackage{colortbl}
+% \usepackage{multirow}
+% \usepackage{hhline}
+% \usepackage{calc}
+% \usepackage{tabularx}
+% \usepackage{threeparttable}
+% \usepackage{wrapfig}
+% \usepackage{adjustbox}
+% \usepackage{hyperref}
+% % These are LaTeX packages. You can install them using your LaTex management software,
+% % or by running `huxtable::install_latex_dependencies()` from within R.
+% % Other packages may be required if you use non-standard tabulars (e.g. tabulary).
+% \pagenumbering{gobble}
+
+% \begin{document}
+
+
+  \providecommand{\huxb}[2]{\arrayrulecolor[RGB]{#1}\global\arrayrulewidth=#2pt}
+  \providecommand{\huxvb}[2]{\color[RGB]{#1}\vrule width #2pt}
+  \providecommand{\huxtpad}[1]{\rule{0pt}{#1}}
+  \providecommand{\huxbpad}[1]{\rule[-#1]{0pt}{#1}}
+
+\begin{table*}[ht]
+\begin{centerbox}
+\begin{threeparttable}
+\captionsetup{justification=centering,singlelinecheck=off}
+\caption{Population estimates for 2016-2020 (ONS, mid-year estimates) and population projections for 2021-2025, West Sussex.}\label{tab:population}
+ \setlength{\tabcolsep}{0pt}
+\begin{tabular}{l l l l l l l l l l l}
+
+
+\hhline{}
+\arrayrulecolor{black}
+
+\multicolumn{1}{!{\huxvb{0, 0, 0}{0}}l!{\huxvb{0, 0, 0}{0}}}{\huxtpad{1pt + 1em}\raggedright \hspace{0pt} \textbf{Age} \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} \textbf{2016} \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} \textbf{2017} \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} \textbf{2018} \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} \textbf{2019} \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} \textbf{2020} \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} \textbf{2021} \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} \textbf{2022} \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} \textbf{2023} \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} \textbf{2024} \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} \textbf{2025} \hspace{0pt}\huxbpad{1pt}} \tabularnewline[-0.5pt]
+
+
+\hhline{>{\huxb{0, 0, 0}{0.4}}->{\huxb{0, 0, 0}{0.4}}->{\huxb{0, 0, 0}{0.4}}->{\huxb{0, 0, 0}{0.4}}->{\huxb{0, 0, 0}{0.4}}->{\huxb{0, 0, 0}{0.4}}->{\huxb{0, 0, 0}{0.4}}->{\huxb{0, 0, 0}{0.4}}->{\huxb{0, 0, 0}{0.4}}->{\huxb{0, 0, 0}{0.4}}->{\huxb{0, 0, 0}{0.4}}-}
+\arrayrulecolor{black}
+
+\multicolumn{1}{!{\huxvb{0, 0, 0}{0}}l!{\huxvb{0, 0, 0}{0}}}{\huxtpad{1pt + 1em}\raggedright \hspace{0pt} Total \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{204, 223, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 846,900 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{204, 223, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 852,400 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{204, 223, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 858,900 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{204, 223, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 864,000 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{204, 223, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 867,600 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{136, 180, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 877,900 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{136, 180, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 883,900 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{136, 180, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 889,700 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{136, 180, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 895,200 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{136, 180, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 900,400 \hspace{0pt}\huxbpad{1pt}} \tabularnewline[-0.5pt]
+
+
+\hhline{}
+\arrayrulecolor{black}
+
+\multicolumn{1}{!{\huxvb{0, 0, 0}{0}}l!{\huxvb{0, 0, 0}{0}}}{\huxtpad{1pt + 1em}\raggedright \hspace{0pt} Aged 0 - 4 years \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{204, 223, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 47,800 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{204, 223, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 47,200 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{204, 223, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 46,800 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{204, 223, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 46,100 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{204, 223, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 45,400 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{136, 180, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 44,500 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{136, 180, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 43,900 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{136, 180, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 43,500 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{136, 180, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 43,500 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{136, 180, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 43,300 \hspace{0pt}\huxbpad{1pt}} \tabularnewline[-0.5pt]
+
+
+\hhline{}
+\arrayrulecolor{black}
+
+\multicolumn{1}{!{\huxvb{0, 0, 0}{0}}l!{\huxvb{0, 0, 0}{0}}}{\huxtpad{1pt + 1em}\raggedright \hspace{0pt} Aged 5 - 9 years \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{204, 223, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 50,700 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{204, 223, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 51,900 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{204, 223, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 52,200 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{204, 223, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 52,300 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{204, 223, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 52,100 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{136, 180, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 52,300 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{136, 180, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 51,500 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{136, 180, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 51,000 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{136, 180, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 50,100 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{136, 180, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 49,300 \hspace{0pt}\huxbpad{1pt}} \tabularnewline[-0.5pt]
+
+
+\hhline{}
+\arrayrulecolor{black}
+
+\multicolumn{1}{!{\huxvb{0, 0, 0}{0}}l!{\huxvb{0, 0, 0}{0}}}{\huxtpad{1pt + 1em}\raggedright \hspace{0pt} Aged 10 - 14 years \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{204, 223, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 45,800 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{204, 223, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 47,200 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{204, 223, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 48,800 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{204, 223, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 50,400 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{204, 223, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 52,100 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{136, 180, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 53,100 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{136, 180, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 54,400 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{136, 180, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 54,600 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{136, 180, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 54,800 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{136, 180, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 54,600 \hspace{0pt}\huxbpad{1pt}} \tabularnewline[-0.5pt]
+
+
+\hhline{}
+\arrayrulecolor{black}
+
+\multicolumn{1}{!{\huxvb{0, 0, 0}{0}}l!{\huxvb{0, 0, 0}{0}}}{\huxtpad{1pt + 1em}\raggedright \hspace{0pt} Aged 15 - 19 years \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{204, 223, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 45,300 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{204, 223, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 44,100 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{204, 223, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 43,500 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{204, 223, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 43,200 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{204, 223, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 43,600 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{136, 180, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 44,300 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{136, 180, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 45,600 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{136, 180, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 47,100 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{136, 180, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 48,500 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{136, 180, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 50,000 \hspace{0pt}\huxbpad{1pt}} \tabularnewline[-0.5pt]
+
+
+\hhline{}
+\arrayrulecolor{black}
+
+\multicolumn{1}{!{\huxvb{0, 0, 0}{0}}l!{\huxvb{0, 0, 0}{0}}}{\huxtpad{1pt + 1em}\raggedright \hspace{0pt} Aged 20 - 24 years \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{204, 223, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 40,000 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{204, 223, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 39,400 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{204, 223, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 39,400 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{204, 223, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 38,700 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{204, 223, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 37,900 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{136, 180, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 37,200 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{136, 180, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 36,000 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{136, 180, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 35,400 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{136, 180, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 35,100 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{136, 180, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 35,200 \hspace{0pt}\huxbpad{1pt}} \tabularnewline[-0.5pt]
+
+
+\hhline{}
+\arrayrulecolor{black}
+
+\multicolumn{1}{!{\huxvb{0, 0, 0}{0}}l!{\huxvb{0, 0, 0}{0}}}{\huxtpad{1pt + 1em}\raggedright \hspace{0pt} Aged 25 - 29 years \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{204, 223, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 44,700 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{204, 223, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 44,700 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{204, 223, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 44,500 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{204, 223, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 43,900 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{204, 223, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 43,100 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{136, 180, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 43,800 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{136, 180, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 43,900 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{136, 180, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 43,800 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{136, 180, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 43,400 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{136, 180, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 42,900 \hspace{0pt}\huxbpad{1pt}} \tabularnewline[-0.5pt]
+
+
+\hhline{}
+\arrayrulecolor{black}
+
+\multicolumn{1}{!{\huxvb{0, 0, 0}{0}}l!{\huxvb{0, 0, 0}{0}}}{\huxtpad{1pt + 1em}\raggedright \hspace{0pt} Aged 30 - 34 years \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{204, 223, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 47,600 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{204, 223, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 47,200 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{204, 223, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 47,800 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{204, 223, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 48,200 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{204, 223, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 48,300 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{136, 180, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 49,300 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{136, 180, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 49,500 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{136, 180, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 49,200 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{136, 180, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 49,100 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{136, 180, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 48,600 \hspace{0pt}\huxbpad{1pt}} \tabularnewline[-0.5pt]
+
+
+\hhline{}
+\arrayrulecolor{black}
+
+\multicolumn{1}{!{\huxvb{0, 0, 0}{0}}l!{\huxvb{0, 0, 0}{0}}}{\huxtpad{1pt + 1em}\raggedright \hspace{0pt} Aged 35 - 39 years \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{204, 223, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 51,400 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{204, 223, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 52,900 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{204, 223, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 53,400 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{204, 223, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 53,000 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{204, 223, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 52,600 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{136, 180, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 52,700 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{136, 180, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 52,400 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{136, 180, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 52,900 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{136, 180, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 53,400 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{136, 180, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 53,800 \hspace{0pt}\huxbpad{1pt}} \tabularnewline[-0.5pt]
+
+
+\hhline{}
+\arrayrulecolor{black}
+
+\multicolumn{1}{!{\huxvb{0, 0, 0}{0}}l!{\huxvb{0, 0, 0}{0}}}{\huxtpad{1pt + 1em}\raggedright \hspace{0pt} Aged 40 - 44 years \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{204, 223, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 54,200 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{204, 223, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 52,700 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{204, 223, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 52,300 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{204, 223, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 52,700 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{204, 223, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 53,700 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{136, 180, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 55,400 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{136, 180, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 56,800 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{136, 180, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 57,400 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{136, 180, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 57,100 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{136, 180, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 56,800 \hspace{0pt}\huxbpad{1pt}} \tabularnewline[-0.5pt]
+
+
+\hhline{}
+\arrayrulecolor{black}
+
+\multicolumn{1}{!{\huxvb{0, 0, 0}{0}}l!{\huxvb{0, 0, 0}{0}}}{\huxtpad{1pt + 1em}\raggedright \hspace{0pt} Aged 45 - 49 years \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{204, 223, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 61,800 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{204, 223, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 61,200 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{204, 223, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 60,300 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{204, 223, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 59,400 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{204, 223, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 58,500 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{136, 180, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 56,700 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{136, 180, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 55,300 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{136, 180, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 54,700 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{136, 180, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 55,200 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{136, 180, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 56,400 \hspace{0pt}\huxbpad{1pt}} \tabularnewline[-0.5pt]
+
+
+\hhline{}
+\arrayrulecolor{black}
+
+\multicolumn{1}{!{\huxvb{0, 0, 0}{0}}l!{\huxvb{0, 0, 0}{0}}}{\huxtpad{1pt + 1em}\raggedright \hspace{0pt} Aged 50 - 54 years \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{204, 223, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 62,400 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{204, 223, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 63,400 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{204, 223, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 63,800 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{204, 223, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 63,700 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{204, 223, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 62,900 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{136, 180, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 63,100 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{136, 180, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 62,600 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{136, 180, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 61,800 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{136, 180, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 60,800 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{136, 180, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 59,900 \hspace{0pt}\huxbpad{1pt}} \tabularnewline[-0.5pt]
+
+
+\hhline{}
+\arrayrulecolor{black}
+
+\multicolumn{1}{!{\huxvb{0, 0, 0}{0}}l!{\huxvb{0, 0, 0}{0}}}{\huxtpad{1pt + 1em}\raggedright \hspace{0pt} Aged 55 - 59 years \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{204, 223, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 55,400 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{204, 223, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 57,200 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{204, 223, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 58,800 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{204, 223, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 60,400 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{204, 223, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 62,300 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{136, 180, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 63,800 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{136, 180, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 64,900 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{136, 180, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 65,400 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{136, 180, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 65,300 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{136, 180, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 64,500 \hspace{0pt}\huxbpad{1pt}} \tabularnewline[-0.5pt]
+
+
+\hhline{}
+\arrayrulecolor{black}
+
+\multicolumn{1}{!{\huxvb{0, 0, 0}{0}}l!{\huxvb{0, 0, 0}{0}}}{\huxtpad{1pt + 1em}\raggedright \hspace{0pt} Aged 60 - 64 years \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{204, 223, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 49,600 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{204, 223, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 50,400 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{204, 223, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 51,600 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{204, 223, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 53,000 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{204, 223, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 54,300 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{136, 180, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 56,400 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{136, 180, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 58,300 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{136, 180, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 60,100 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{136, 180, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 62,000 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{136, 180, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 64,100 \hspace{0pt}\huxbpad{1pt}} \tabularnewline[-0.5pt]
+
+
+\hhline{}
+\arrayrulecolor{black}
+
+\multicolumn{1}{!{\huxvb{0, 0, 0}{0}}l!{\huxvb{0, 0, 0}{0}}}{\huxtpad{1pt + 1em}\raggedright \hspace{0pt} Aged 65 - 69 years \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{204, 223, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 54,700 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{204, 223, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 51,700 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{204, 223, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 50,200 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{204, 223, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 49,400 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{204, 223, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 49,400 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{136, 180, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 50,200 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{136, 180, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 51,100 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{136, 180, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 52,400 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{136, 180, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 53,900 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{136, 180, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 55,300 \hspace{0pt}\huxbpad{1pt}} \tabularnewline[-0.5pt]
+
+
+\hhline{}
+\arrayrulecolor{black}
+
+\multicolumn{1}{!{\huxvb{0, 0, 0}{0}}l!{\huxvb{0, 0, 0}{0}}}{\huxtpad{1pt + 1em}\raggedright \hspace{0pt} Aged 70 - 74 years \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{204, 223, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 45,100 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{204, 223, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 49,900 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{204, 223, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 52,000 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{204, 223, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 53,200 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{204, 223, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 53,700 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{136, 180, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 53,700 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{136, 180, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 50,900 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{136, 180, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 49,500 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{136, 180, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 49,000 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{136, 180, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 49,000 \hspace{0pt}\huxbpad{1pt}} \tabularnewline[-0.5pt]
+
+
+\hhline{}
+\arrayrulecolor{black}
+
+\multicolumn{1}{!{\huxvb{0, 0, 0}{0}}l!{\huxvb{0, 0, 0}{0}}}{\huxtpad{1pt + 1em}\raggedright \hspace{0pt} Aged 75 - 79 years \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{204, 223, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 34,000 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{204, 223, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 34,400 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{204, 223, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 35,800 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{204, 223, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 37,600 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{204, 223, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 39,200 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{136, 180, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 41,900 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{136, 180, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 46,400 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{136, 180, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 48,500 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{136, 180, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 49,600 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{136, 180, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 50,200 \hspace{0pt}\huxbpad{1pt}} \tabularnewline[-0.5pt]
+
+
+\hhline{}
+\arrayrulecolor{black}
+
+\multicolumn{1}{!{\huxvb{0, 0, 0}{0}}l!{\huxvb{0, 0, 0}{0}}}{\huxtpad{1pt + 1em}\raggedright \hspace{0pt} Aged 80 - 84 years \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{204, 223, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 26,700 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{204, 223, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 27,100 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{204, 223, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 27,800 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{204, 223, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 28,400 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{204, 223, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 28,600 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{136, 180, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 28,700 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{136, 180, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 29,200 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{136, 180, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 30,500 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{136, 180, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 32,000 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{136, 180, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 33,600 \hspace{0pt}\huxbpad{1pt}} \tabularnewline[-0.5pt]
+
+
+\hhline{}
+\arrayrulecolor{black}
+
+\multicolumn{1}{!{\huxvb{0, 0, 0}{0}}l!{\huxvb{0, 0, 0}{0}}}{\huxtpad{1pt + 1em}\raggedright \hspace{0pt} Aged 85 and over \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{204, 223, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 29,700 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{204, 223, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 29,800 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{204, 223, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 29,700 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{204, 223, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 30,200 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{204, 223, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 30,100 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{136, 180, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 30,800 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{136, 180, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 31,200 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{136, 180, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 31,900 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{136, 180, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 32,400 \hspace{1pt}\huxbpad{1pt}} &
+\multicolumn{1}{r!{\huxvb{0, 0, 0}{0}}}{\cellcolor[RGB]{136, 180, 255}\huxtpad{1pt + 1em}\raggedleft \hspace{1pt} 33,000 \hspace{0pt}\huxbpad{1pt}} \tabularnewline[-0.5pt]
+
+
+\hhline{}
+\arrayrulecolor{black}
+\end{tabular}
+\end{threeparttable}\par\end{centerbox}
+
+\end{table*}
+
+
+
+% \end{document}

@@ -1,0 +1,151 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Stylish Article
+% LaTeX Template
+% Version 2.1 (1/10/15)
+%
+% This template has been downloaded from:
+% http://www.LaTeXTemplates.com
+%
+% Original author:
+% Mathias Legrand (legrand.mathias@gmail.com) 
+% With extensive modifications by:
+% Vel (vel@latextemplates.com)
+%
+% License:
+% CC BY-NC-SA 3.0 (http://creativecommons.org/licenses/by-nc-sa/3.0/)
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%----------------------------------------------------------------------
+%	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
+%----------------------------------------------------------------------
+
+\documentclass[fleqn,10pt,twoside]{SelfArx} % Document font size and equations flushed left
+
+\usepackage[english]{babel} % Specify a different language here - english by default
+
+\usepackage{lipsum} % Required to insert dummy text. To be removed otherwise
+\usepackage{todonotes} % Lets me add the many many todos that still need to be done
+
+% Group together figures with separate captions
+\usepackage{caption}
+\usepackage{subcaption}
+
+% Coloured boxes to make things pretty
+\usepackage{tcolorbox}
+\usepackage{graphicx}
+
+% Huxtable compatability
+\usepackage{threeparttable}
+\usepackage{adjustbox}
+\usepackage{hhline}
+\usepackage{colortbl}
+
+% Multiline support in tables
+\usepackage{multirow}
+% This allows us to have centred fixed width columns in tables
+\newcolumntype{P}[1]{>{\centering\arraybackslash}p{#1}}
+\newcolumntype{M}[1]{>{\centering\arraybackslash}m{#1}}
+
+% For multiple columm itemize lists
+\usepackage{multicol}
+
+
+%----------------------------------------------------------------------
+%	COLUMNS
+%----------------------------------------------------------------------
+
+\setlength{\columnsep}{0.8cm} % Distance between the two columns of text
+\setlength{\fboxrule}{0.75pt} % Width of the border around the abstract
+\setlength{\columnseprule}{0.5pt}
+
+%----------------------------------------------------------------------
+%	COLORS
+%----------------------------------------------------------------------
+
+\definecolor{color1}{RGB}{0,0,90} % Color of the article title and sections
+\definecolor{color2}{RGB}{0,20,20} % Color of the boxes behind the abstract and headings
+\definecolor{boxcolour}{HTML}{CCDFFF} % Colour of my arbitrary boxes
+
+%----------------------------------------------------------------------
+%	HYPERLINKS
+%----------------------------------------------------------------------
+
+\usepackage{hyperref} % Required for hyperlinks
+\hypersetup{hidelinks,colorlinks,breaklinks=true,urlcolor=color2,citecolor=color1,linkcolor=color1,bookmarksopen=false,pdftitle={Title},pdfauthor={Author}}
+
+% ----- GET FIGURES AND TABLES TO BEHAVE ------%
+\usepackage{float}
+
+%----------------------------------------------------------------------
+%	ARTICLE INFORMATION
+%----------------------------------------------------------------------
+
+\JournalInfo{West Sussex County Council} % Journal information
+\Archive{June 2022} % Additional notes (e.g. copyright, DOI, review/research article)
+
+\PaperTitle{West Sussex JSNA Summary 2021/22} % Article title
+
+\Authors{Public Health and Social Research Unit}%, James Smith\textsuperscript{2}} % Authors
+\affiliation{\textsuperscript{1}\textit{Public Health and Social Research Unit, West Sussex County Council, West Sussex, United Kingdom}} % Author affiliation
+%\affiliation{\textsuperscript{2}\textit{Department of Chemistry, University of Examples, London, United Kingdom}} % Author affiliation
+\affiliation{*\textbf{For more information, please contact}: Matthew.Dorey@westsussex.gov.uk} % Corresponding author
+
+\Keywords{Covid-19 --- Mental Health --- Service Planning --- Population Health Management --- Health Equity} % Keywords - if you don't want any simply remove all the text between the curly brackets
+\newcommand{\keywordname}{Keywords} % Defines the keywords heading name
+
+
+%----------------------------------------------------------------------
+%	ABSTRACT
+%----------------------------------------------------------------------
+
+\Abstract{The West Sussex Joint Strategic Needs Assessment (JSNA) sets out the health and wellbeing needs of the population of West Sussex. It is not a single document or piece of analysis but encompasses a range of work, including detailed needs assessments relating to specific subjects or communities, evaluations of new programmes or activities, local surveys, and a range of briefings and ad hoc analyses. This summary is a brief run-through of the data available.}
+
+%----------------------------------------------------------------------
+\begin{document}
+\renewcommand{\abstractname}{What is a JSNA?} % Makes the abstract title something more akin to what we would expect
+\flushbottom % Makes all text pages the same height
+
+\maketitle % Print the title and abstract box
+
+\tableofcontents % Print the contents section
+\listoftodos
+\thispagestyle{empty} % Removes page numbering from the first page
+
+%----------------------------------------------------------------------------------------
+%	ARTICLE CONTENTS
+%----------------------------------------------------------------------------------------
+\input{preamble}
+
+\setlength{\parindent}{0cm}
+\setlength{\parskip}{1em}
+\newpage
+\input{chapter1-old} % Intro
+\newpage
+\input{chapter2-old} % Starting well
+\newpage
+\input{chapter3-old} % Living well
+\newpage
+\input{chapter4-old} % Ageing well
+ 
+(BACK COVER)
+
+
+%------------------------------------------------
+% \phantomsection
+% \section*{Acknowledgments} % The \section*{} command stops section numbering
+
+% \addcontentsline{toc}{section}{Acknowledgments} % Adds this section to the table of contents
+
+% So long and thanks for all the fish \cite{Figueredo:2009dg}.
+
+%----------------------------------------------------------------------------------------
+%	REFERENCE LIST
+%----------------------------------------------------------------------------------------
+% \phantomsection
+% \bibliographystyle{unsrt}
+% \bibliography{sample}
+
+%----------------------------------------------------------------------------------------
+% will also need front and back cover
+\end{document}

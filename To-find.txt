@@ -1,0 +1,21 @@
+To find:
+Pop estimates 2020 Crawley proportion aged 65+ years
+Pop estimates 2020 Crawley proportion aged <16 years (0-15)
+Pop estimates 2020 West Sussex all age proportion female
+Pop estimates 2020 West Sussex over 65 proportion female
+Pop estimates 2020 West Sussex over 85 proportion female
+Most recent FRS estimates of proportion of the population disabled all ages
+Most recent FRS estimates of proportion of the population disabled 0-4 years
+Most recent FRS estimates of proportion of the population disabled 80+ years
+Check for reporting of sexual orientation of population
+Check whether estimates for numbers of transgender people are updated since 2018
+Estimates of number of births in West Sussex in 2020
+Estimates of number of births to under 18s in West Sussex in 2020
+Difference in life expectancy between least and most deprived areas (Males)
+Difference in life expectancy between least and most deprived areas (Females)
+Most recent estimates of how many children in West Sussex live in poverty
+Level of development at 2-2.5 years in West Sussex
+Level of development at 2-2.5 years in England
+Uptake of flu vaccine in 2-3 year olds in West Sussex
+Uptake of flu vaccine in 2-3 year olds in England
+Measles rate per 100,000 population in West Sussex in 2019 or 2020, compared to CIPFA neighbours and rank in England

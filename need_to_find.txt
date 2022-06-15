@@ -1,0 +1,221 @@
+EVERYTHING NEEDED FOR CHAPTER ONE
+=================================
+Lower quartile house prices - Ds&Bs, County, SE, Eng
+Lower quartile earnings - Ds&Bs, County, SE, Eng
+Median rents - Ds&Bs, County, SE, Eng
+Number of households on council waiting lists - West Sussex
+Number of households accepted as homeless and in priority need
+Number of households with one or more dependent children accepted as homeless and in priority need
+Number of households accepted as homeless but not in priority need
+1. Number of households owed a duty under the Homelessness Reduction Act
+2. Number of Rough Sleepers
+Number of households in temporary accomodation
+Number of children in temporary accomodation
+Number of households claiming Housing Benefit (has this been replaced by universal credit?)
+Number of rough sleepers (PHOF B15b)
+Proportion of West Sussex residents using the outdoors for health reasons (PHOF B16)
+Statement on the effect of Covid-19 on travel to work behaviours
+
+EVERYTHING NEEDED FOR CHAPTER TWO
+=================================
+Number of children and young people aged 0-19 in West Sussex
+Approximate number of births per year
+Proportion of 0-19s in the county as a whole
+Proportion of 0-19s in the country as a whole
+Proportion of 0-19s in Crawley
+Infant mortality rate for West Sussex
+National infant mortality rate
+Qualitative comparisons to national figures for child health indicators that have historically been good
+- low birth weight babies
+- percentage of woman smoking at time of delivery
+- rates of breastfeeding
+- proportion of children assessed as having a good level of development at their two year check
+Qualitative comparisons to national figures for child health indicators that have historically been challenges
+- number of confirmed measles cases
+- school readiness measures
+Number of children in West Sussex living in poverty
+Statement on indicators included in the WICH tool re: young people's health
+Proportion of children assessed as having a good level of development aged 2-2.5 years
+Proportion of children receiving the flu vaccination at 2-3 years
+Statement on current measles rates 
+Statement on maternal mental health
+Update the vaccination table with Sally's figures
+West Sussex hospital admission for Asthma  in 0-19 year olds - Number and rate per 100K
+West Sussex hospital admission for Diabetes  in 0-19 year olds - Number and rate per 100K
+West Sussex hospital admission for Epilepsy in 0-19 year olds - Number and rate per 100K
+FRS disability prevalence applied to current West Sussex population
+Statemnet on increases in mental health impairments
+Apply 2004 Mental health estimates to most recent CYP population
+Findings of 2017 MH survey applied to current West Sussex CYP population
+CAMHS tier Pyramid screen diagram or screen grab
+Updated figures for CAMHS tiers table 
+Number of school pupils in West Sussex with primary need of Autism spectrum conditions in most recent school census
+Number and rate of hospital admissions for alcohol-specific conditions (of under 18s) 
+Chlamydia detection rate 
+Teenage pregnancy rates in West Sussex and districts/boroughs
+Number of births to teenage mothers
+Proportion of all births that are to teenage mothers
+Proportion of children meeting recommendations for physical activity (PHOF C10) West Sussex and districts
+Proportion of children overweight in reception - West Sussex and districts
+Proportion of children overweight in year 6 - West Sussex and districts
+Proportion of 2 year-olds in West Sussex benefited from funded early years (2 year-olds)
+Proportion of 2, 3 and 4 year-olds are in funded early provision with staff who have graduate status
+Number of pupils with a statement or Education, Health and Care (EHC) plan attending a West Sussex school
+Number of children with a moderate learning difficulty known to schools
+Number of children with a severe learning disability.
+Proportion of 16-17 year-olds not in education in West Sussex (PHOF B05)
+Number of 16-17 year-olds not in education in West Sussex (PHOF B05)
+Breakdown of NEETs by status and age in West Sussex
+Percentage of pupils achieving the expected standard in reading, writing and maths in West Sussex KS2
+Percentage of pupils achieving the higher standard in reading, writing and maths in West Sussex KS2
+P8 Score measure for West Sussex (KS4)
+Percentage of all pupils progressing to higher education by age 19 in West Sussex
+Percentage of all pupils progressing to higher education by age 19 in England
+Percentage of all pupils progressing to higher education by age 19 in statistical neighbours of West Sussex
+Percentage of pupils receiving FSM progressing to higher education by age 19 in West Sussex
+Percentage of pupils receiving FSM progressing to higher education by age 19 in England
+Percentage of pupils receiving FSM progressing to higher education by age 19 in statistical neighbours of West Sussex
+LAIT: Number of Children Looked After in West Sussex (and rate per 10,000)
+Number of unaccompanied asylum seeking children (UASC) in West Sussex
+Percentage unauthorised absence rate of children looked after (who have been continuously looked after for 12 months) in West Sussex
+Percentage of 'persistent absentees' among children looked after (who have been continuously looked after for 12 months) in West Sussex
+PHOF reference C12
+Rate of First time entrants to the criminal justice system in West Sussex per 1,000 10-17 year olds
+The Children in Need rate in West Sussex, per 10,000
+Number of children in need in West Sussex
+Percentage of childreen in need with a recorded disability
+The rate (per 10,000) of referrals to social services in West Sussex
+Total number of referrals to social services in West Sussex
+Rate of Section 47 enquiries per 10,000
+Rate of Children subject to a Child Protection Plan (CPP) in West Sussex compared to England and statistical neighbours
+The percentage of children who became subject to a CPP in West Sussex compared to England and statistical neighbours
+
+EVERYTHING NEEDED FOR CHAPTER THREE
+===================================
+Percentage employment gap between those with a long-term health condition and the overall employment rate
+Percentage employment gap between adults with a learning disability and the overall employment rate
+Percentage employment gap between those in contact with secondary mental health services and the overall employment rate
+Overall smoking rate in West Sussex
+Rate of hospital admissions for alcohol-related conditions for women under 40
+Proportion of adults in West Sussex and its Ds&Bs estimated to be overweight or obese (PHOF C16)
+Percentage of adults who are physically inactive
+Data for years of potential life lost per 10,000 population in under 75s
+Statement on Covid-19 impact on YLL
+People in West Sussex aged 16-64 estimated to be economically inactive
+Breakdown of economically inactive
+Rate per 1,000 16-64 year-olds claiming Jobseeker' Allowance long-term (i.e. for more than 12 months) in West Sussex
+NHS Digital Health and Social Care Workforce statistics for West Sussex CCG
+- Primary Care Staffing by West Sussex Clinical Commissioning Groups (CCGs).
+- Percentage of GPs Aged 55 or Over by West Sussex CCGs.
+Statement on impacts of Covid-19 on health and social care workforce (and anticipated trends?)
+Staffing (FTE) per 100,000 Population -> GPs / Nurses / Direct Care Staff / Admin and non-clinical
+Number of people in West Sussex Ds&Bs receiving higher and lower attendence allowances
+Number of people in West Sussex Ds&Bs receiving carers allowance
+Mean weekly amount of carers allowance paid
+Age and Gender breakdown on carers allowance claimants in West Sussex and its Ds&Bs
+Estimates of the number of unpaid carers in West Sussex
+Age and gender of unpaid carers in West Sussex
+Check w/ Rich whether the GP Patient Survey results have been updated - also Sally as I recall her doing something on this
+Number of deaths attributable to smoking in West Sussex
+Adult smoking rate in West Sussex
+Number of adults still smoking in West Sussex given the adult smoking rates and population estimates
+Is there updated survey data on routine and manual workers
+Percentage of adults classed as physically active PHOF reference c17a in West Sussex and its Ds&Bs
+Percentage of adults classed as physically inactive PHOF reference C17b in West Sussex and its Ds&Bs
+Proportion of the adult population meeting the recommended '5-a-day' portions of fruit and vegetables on a 'usual day' in West Sussex and its Ds&Bs (PHOF reference C15)
+Proportion of adults in West Sussex and its Ds&Bs stimated to be overweight or obese (PHOF c16)
+Screengrab of PHE alcohol misuse diagram
+Number of admissions for alcohol-related conditions (Narrow) per 100,000. PHOF reference C21
+Number of admissions for alcohol-related conditions (Broad) per 100,000.
+Number of admissions for alcohol- related conditions (Specific) per 100,000
+Number of alcohol-related road traffic accidents in which at least one driver failed a breath test in West Sussex
+Mortality from chronic liver disease per 100,000 in West Sussex
+Estimated number of people (aged 16-64 years) who use opiates and/or crack in West Sussex
+Percentage of people (aged 16-64 years) who use opiates and/or crack who are 35 years or older in West Sussex
+Number of drug misuse deaths in West Sussex PHOF reference C19d
+PHOF reference C19c
+PHOF reference C19b
+PHOF reference C19a
+Estimated proportion of the West Sussex OCU users in 2018/19 who were not in contact with drug treatment services for an OCU problem (NDTMS?)
+Estimated proportion of the West Sussex dependent drinkers in need of specialist alcohol treatment who were not in contact with treatment services for alcohol only or alcohol and non-opiate use
+Number of new diagnoses of Chlamydia in West Sussex
+Number of new diagnoses of Genital Warts in West Sussex
+Number of new diagnoses of Genital Herpes in West Sussex
+Number of new diagnoses of Gonorrhoea in West Sussex
+Number of new diagnoses of Syphilis in West Sussex
+Overall STI testing rate
+Proportion of late HIV diagnoses in West Sussex
+Recent trend in West Sussex attendances at SH venues
+Rate of conceptions in Under-18 year olds in West Sussex
+Rate of conceptions in 15-17 year olds in West Sussex
+Proportion of teenage conceptions ending in abortion in West Sussex
+Rate of abortions per 1,000 females aged 15-44 in West Sussex
+Percentage of abortions undertaken under 10 weeks in West Sussex
+Percentage of abortions to under 25s that were repeat abortions
+Rate of usage of LARC per 1,000 female population aged 15-44 years
+Hospital admission rate for Pelvic Inflammatory Disease (PID) in West Sussex
+Chlamydia screening rates in West Sussex, England and statistical neighbours of West Sussex
+Screening is mostly covered except for flu jabs 
+NHS Health Check data for West Sussex
+APMS updated at all
+Statement about impact of Covid-19 on mental health and anticipated increase in MH conditions as a result
+Recorded disease prevalence for mental health conditions (schizophrenia, bipolar disorder and psychoses)
+Number of people with a learning disabilities (mild to moderate, on GP LD registers, with Down's Syndrome)
+Individual and Subjective wellbeing survey results (C28 abcd)
+More recent suicide audit?
+Rate of recorded violent offences per 1,000 population
+Rate of recorded sexual offences per 1,000 population
+Rate of domestic abuse-related incidents and crime
+Number of people killed or seriously injured (KS) on roads (PHOF reference B10)
+
+EVERYTHING NEEDED FOR CHAPTER FOUR
+==================================
+Number of people in West Sussex aged 65 and over
+Life expectancy comparison between males and females
+Emergency admissions due to falls - Number and rate
+Number of hip fractures in residents aged over 80
+Proportion of people 'fairly' or 'very' confident in managing their conditions (GP survey)
+Percentage of people dying at home, West Sussex and districts and boroughs
+Population of over 65s in 2010 and projections for 2030
+Year on year change in population over time for over 65s
+Proportion of people in West Sussex aged 65+ who live alone 
+Proportion of people in West Sussex aged 65+ who live in residential care
+Proportion of people in West Sussex aged 65+ who provide unpaid care for a family member, friend and/or neighbour
+Proportion of older people who are home owners
+Number of older people with mobility problems (and proportion of whole population)
+Screengrab of Age UK maps
+POPPI prevalence estimates applied to West Sussex Population
+- Diabetes
+- Dementia
+- Depression
+- severe Depression 
+- LTC caused by bronchitis and emphysema
+- LTC caused by a stroke
+- bladder problem once a week 
+- have a fall
+- have a hospital admission related to a fall 
+- have severe hearing loss
+- have registrable eye conditions (75+)
+Number of people on DP Dementia registers
+Proportion of people aged 18+ reporting a long term MSK problem
+People aged 65 years or over estimated to have moderate to severe visual impairment
+Rate of sight loss related to age-related macular degeneration (AMD) in 65+ year-olds 
+Number of new certifications of visual impairment
+Public Health England published estimates of the number of people with multi-morbidities in each lower tier authority in England. (updated?)
+Gp Patient survey data
+- confidence in managing conditions
+Self-care forum graphic
+NHS Digital social care data collection
+New requests for adult social care from 18-64 year olds by route of entry (West Sussex vs England)
+New requests for adult social care from 65+ year olds by route of entry (West Sussex vs England)
+Direction of travel for number of requests to social care reported by West Sussex to NHS Digital in recent years
+Rate of requests for West Sussex, comparable authorities and England per 100,000 population
+Check wording of existing footnote on definition of permanent admission
+Check with Jacqueline whether arrangements for residential care admissions during Covid need to be mentioned in the summary (Will depend on time range of the data)
+Adult social care users survey - more recent than 2018-19? There seem to be PHOF indicators
+Number and rate of falls per 100,000 in West Sussex and England in 65+, 65-79, and 80+
+Hip fracture data - possibly a specific piece of work so may not have been updated
+Emergency admissions for falls - age and sex profile - was this HES or is it available from NHS Digital?
+Flu vaccination coverage in over 65s West Sussex vs England over time
+Excess winter deaths and winter wellbeing - PHOF E14 - West Sussex and England with statistical comparison
+

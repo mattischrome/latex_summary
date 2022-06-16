@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1655297697 "/Users/tentacle/Documents/JSNA/latex_summary/jsna_summary.tex" "jsna_summary.pdf" "jsna_summary" 1655297706
+["pdflatex"] 1655402395 "/Users/tentacle/Documents/JSNA/latex_summary/jsna_summary.tex" "jsna_summary.pdf" "jsna_summary" 1655402405
   "/Users/tentacle/Documents/JSNA/latex_summary/jsna_summary.tex" 1655297696 6110 3e1531cfe9f8c1a679c3976588fb3a0e ""
   "/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1136849721 2971 def0b6c1f0b107b3b936def894055589 ""
   "/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/inter/a_bal5qf.enc" 1618692560 3149 32eba45aab6a1eaf25cea30898d9eed6 ""
@@ -241,9 +241,10 @@
   "SelfArx.cls" 1629815947 7323 3ae2e546c87da2ea61b4b3bd029018f9 ""
   "chapter1-old.tex" 1654788667 39352 63417ea7057f80e9b5f54f7259f281d4 ""
   "chapter2-old.tex" 1655140353 53681 95517ce8ef583af25e32effc6a2f7141 ""
-  "chapter3-old.tex" 1655297613 78676 0ee900819994e172e45770ed3a825207 ""
+  "chapter3-old.tex" 1655402394 78563 9efda8f2bd43cedab4a81c4e59d44945 ""
   "chapter4-old.tex" 1645802438 40536 a978ebecafc0e3d6b49227460c443e2e ""
   "images/02_school_readiness_2019.png" 1655139713 126884 862658772eccd01cd798c056bd8fff8b ""
+  "images/03-sc-workforce.png" 1655402296 105159 c7bff963c5ed1ce9f3c963ea620519f2 ""
   "images/65over_vaccine_flu.png" 1645716813 211154 ee12f24cf7fcdcbff686ae00cdfe706a ""
   "images/aaa_rag_bar.png" 1644344340 136821 d5dc4e2d8a89df921630a01a78d1de23 ""
   "images/aaa_time.png" 1644344340 224115 5ba8bb22aa11efb26ae5802e6b8bdc5a ""
@@ -276,13 +277,14 @@
   "images/u75_respiratory_line.png" 1645734279 314605 415009bbff153e5e195ddcafd51152f2 ""
   "images/violent_offences_bar.png" 1646833682 142543 06de5d1ecc1e64cccdde8ad0f741bbbf ""
   "images/violent_offenses_line.png" 1645734464 227055 35256b8ebcf72463b5090479acba56fc ""
+  "images/workforce_dial_chart.png" 1655399313 241308 859d6b19886d2e978c8b61b931dcaf2b ""
   "images/ypll_by_pcn.png" 1652775994 358935 3b0e083061f2fe62b52b49f184e9d03e ""
   "infographic/infographic_content_2.tex" 1653648353 3058 cb192558fa20cd0c3ffa0de098f7b6f2 ""
-  "jsna_summary.aux" 1655297706 42141 52603985861d93dfc7d8901225c9d38d "pdflatex"
-  "jsna_summary.out" 1655297706 17320 1eda04f47ba2c79443d3c9047fb2d1a2 "pdflatex"
-  "jsna_summary.tdo" 1655297706 833 e9bcffa3e412d6832e9a259660694365 "pdflatex"
+  "jsna_summary.aux" 1655402405 42611 cf4a77b3ea423e094d88e2c863df330d "pdflatex"
+  "jsna_summary.out" 1655402405 17320 1eda04f47ba2c79443d3c9047fb2d1a2 "pdflatex"
+  "jsna_summary.tdo" 1655402405 915 f301e5d1fd01bf6298221f33650369e0 "pdflatex"
   "jsna_summary.tex" 1655297696 6110 3e1531cfe9f8c1a679c3976588fb3a0e ""
-  "jsna_summary.toc" 1655297706 14221 7b225a7c737446c931d95f027453818c "pdflatex"
+  "jsna_summary.toc" 1655402405 14221 c46b520f6565d814a08c4433335924e7 "pdflatex"
   "pop_estimates_and_projections_table.tex" 1645455336 35607 7af5175b8dbbe42f2f250b7175cefaee ""
   "preamble.tex" 1635718496 0 d41d8cd98f00b204e9800998ecf8427e ""
   (generated)

@@ -134,17 +134,13 @@ The rate gap for people with a long term health condition has improved, decreasi
 
 The rate gap for people in contact with secondary mental health services has remained at a similar level, decreasing from 69.1\% in 2018/19 to 68.7\% in 2019/20, similar to the England rate (67.2\%).
 
+% This figure isn't great (as at 16/6), text renders too small on the labels. Current idea is to fill the bars with the text for the two longer bars? I'm still not that great at annotating plots outside the data ranges...
+
 \begin{figure}[htp]
     \caption[Gaps in employment rate, West Sussex 2019/20.]{Gaps in employment rate for people with long term health conditions, people in contact with secondary mental health services, and people with learning disabilities. West Sussex, 2019/20.}\label{fig:emp_gaps}
     \centering
 	\includegraphics[width=.9\linewidth]{images/employment_gaps.png}
 \end{figure}
-
-% FIGURE Gaps in employment rate
-% 1) Between people (16-64 years) with a long-term health condition and the overall employment rate 2) Between people (16-64 years) with a learning disability and the overall employment rate 3) Between people (16-69 years) in contact with secondary mental health services and the overall employment rate
-% % 9.9
-% % 78.6
-% % 68.7
 
 \paragraph{Employment Deprived} As part of the Index of Deprivation 2019, the employment domain provides information on the proportion of the working age population in an area that are involuntarily excluded from the labour market. These are people who would like to work but are unable to, including those unemployed, ill, disabled or who have caring responsibilities.
 
@@ -169,36 +165,27 @@ The rate gap for people in contact with secondary mental health services has rem
 \end{table}
 
 \subsubsection{Health and Social Care Workforce - Primary Care}
-\paragraph{Primary Care Staffing} By West Sussex Clinical Commissioning Group (CCG). Data are estimated provided as of March 2022 by NHS Digital.\footnote{FTE = Full Time Equivalent}
+\paragraph{Primary Care Staffing} By West Sussex Clinical Commissioning Group (CCG). Data are estimated provided as of March 2022 by NHS Digital.\footnote{Note that direct patient care staff includes therapists, health care assistant, social prescribing link workers etc. FTE = Full Time Equivalent.}
 % NB - might have three columns here staff type, FTE, head count
-\begin{table*}[hbt]
-    \caption[Primary Care Staffing in NHS West Sussex CCG, March 2022.]{Primary Care Staffing in NHS West Sussex CCG, March 2022. Note that direct patient care staff includes therapists, health care assistant, social prescribing link workers etc.}
+\begin{table}[hbt]
+    \caption[Primary Care Staffing in NHS West Sussex CCG, March 2022.]{Primary Care Staffing in NHS West Sussex CCG, March 2022.}
     \centering
-    \begin{tabular}{lr}
+    \begin{tabular}{lrr}
     \toprule
-    \ & West Sussex \\
+    Staff Role & FTE & Headcount \\
     \midrule
-    All GPs - FTE & 474 \\
-    All GPs - Headcount & 647  \\
-    \ & \ \\
-    Fully qualified GPs (excludes Registrars) - Headcount & 575 \\
-    Fully qualified GPs (excludes Registrars) - FTE & 404 \\
-    \ & \ \\
-    Qualified permanent GPs (excludes Registrars and Locums) - Headcount & 567  \\
-    Qualified permanent GPs (excludes Registrars and Locums) - FTE & 400 \\
-    \ & \ \\
-    Nurses - Headcount & 340 \\
-    Nurses - FTE & 230 \\
-    \ & \ \\
-    Direct patient care staff - Headcount & 350 \\
-    Direct patient care staff - FTE & 233 \\
-    \ & \ \\
-    Admin / non-clinical staff - Headcount & 1572 \\
-    Admin / non-clinical staff - FTE & 1090 \\
+    All GPs  & 474 & 647  \\
+    Fully qualified GPs \scriptsize{(excludes Registrars)} & 575 & 404 \\
+    Qualified permanent GPs \scriptsize{(excludes Registrars and Locums)} & 567 & 400 \\
+    Nurses & 340 & 230 \\
+    Direct patient care staff & 350 & 233 \\
+    Admin / non-clinical staff & 1572 & 1090 \\
     \bottomrule
     \end{tabular}
     \label{tab:wa:primarystaff}
-\end{table*}
+\end{table}
+
+\todo[inline]{Find where I put the data on GPs aged 55+}
 
 \begin{table}[hbt]
     \caption{Percentage of GPs Aged 55 or Over by West Sussex CCGs.}
@@ -213,7 +200,8 @@ The rate gap for people in contact with secondary mental health services has rem
     \label{tab:wa:primarystaff_o55}
 \end{table}
 
-FIGURES Staffing (FTE) per 100,000 Population -> GPs / Nurses / Direct Care Staff / Admin and non-clinical\footnote{CWS = Coastal West Sussex CCG, Craw = Crawley CCG, HMS = Horsham and Mid Sussex CCG}
+% Will compare all staff roles in a new version of this chart
+% FIGURES Staffing (FTE) per 100,000 Population -> GPs / Nurses / Direct Care Staff / Admin and non-clinical\footnote{CWS = Coastal West Sussex CCG, Craw = Crawley CCG, HMS = Horsham and Mid Sussex CCG}
 
 \subsection{Health and Social Care Workforce - Social Care / Care Benefits}
 Data from Skills for Care\footnote{\url{https://www.skillsforcare.org.uk/adult-social-care-workforce-data/Workforce-intelligence/Home.aspx}}
@@ -222,7 +210,10 @@ Data from Skills for Care\footnote{\url{https://www.skillsforcare.org.uk/adult-s
     \item Independent sector employees as at March 2019
 \end{itemize}
 
-DIAL CHARTS
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=\linewidth]{images/workforce_dial_chart.png}
+\end{figure}
 
 \begin{itemize}[noitemsep]
     \item Vacancy rate - The vacancy rate in 2018/19 equated to 2,100 jobs - 9\%
@@ -230,14 +221,18 @@ DIAL CHARTS
     \item Percentage of staff remaining in same sector - 66\%
 \end{itemize} 
 
-FIGURE - Estimated Number of Social Care Staff (all sectors)
+\begin{figure}[h]
+    \caption{Estimated Number of Social Care Staff (all sectors}\label{fig:sc-workforce}
+    \centering
+    \includegraphics[width = \linewidth]{images/03-sc-workforce.png}
+\end{figure}
 
 \begin{itemize}[noitemsep]
     \item 27\% of workers are over 55
-    \item Average Age = 47
-    \item 81\% female
-    \item 22\% of workers on zero hours contracts
-    \item On average 4.9 days of sickness per year
+    \item Average Age = 44
+    \item 82\% female
+    \item 23\% of workers on zero hours contracts
+    \item On average 8.8 days of sickness per year
 \end{itemize}
    
 \paragraph{Attendance Allowance - May 2019 (Rounded to nearest 10)} Attendance Allowance (AA) is non-means tested contribution towards additional costs incurred by people who have a disability and are aged 65 years or over. To qualify, people need to require help with personal care for at least 6 months. Payments are made at two rates: the lower rate (for people who need frequent help or constant supervision during the day, or supervision at night) and the higher rate (for people who need help or supervision throughout both day and night, or who are terminally ill).

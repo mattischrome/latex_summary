@@ -1,8 +1,10 @@
-# Social care gauge charts - just for visual shits and giggles
+# Social care gauge charts - just for visual fun
 library(tidyverse)
 library(patchwork)
 
-gg.gauge <- function(pos,the_title,breaks=c(0,30,70,100)) {
+save_place <- '~/Documents/JSNA/latex_summary/images/'
+
+gg.gauge <- function(pos,the_title,the_subtitle,breaks=c(0,30,70,100)) {
   require(ggplot2)
   get.poly <- function(a,b,r1=0.5,r2=1.0) {
     th.start <- pi*(1-a/100)
@@ -26,18 +28,23 @@ gg.gauge <- function(pos,the_title,breaks=c(0,30,70,100)) {
           axis.title=element_blank(),
           axis.ticks=element_blank(),
           panel.grid=element_blank(),
-          panel.border=element_blank())+
-    labs(title = the_title)
+          panel.border=element_blank(),
+          plot.title=element_text(face='bold'))+
+    labs(title = the_title,
+         subtitle = the_subtitle)
 }
 
 
 
-dial_1 <- gg.gauge(6,'Vacancy rate\n\n')
-dial_2 <- gg.gauge(33,'Turnover rate\n\n')
-dial_3 <- gg.gauge(63,'Percentage of staff\nremaining in same\nsector')
+dial_1 <- gg.gauge(6,'Vacancy rate\n\n','The vacancy rate in\n2020/21 equated to\nXXXX jobs\n')
+dial_2 <- gg.gauge(33,'Turnover rate\n\n','The rate in 2020/21\nequated to YYYY\nleavers\n')
+dial_3 <- gg.gauge(63,'Percentage of staff\nremaining in same\nsector','')
 
-all_the_dials <- dial_1 + dial_2 + dial_3 +
-  plot_annotation(title = 'A bunch of dial charts',
-                  subtitle = 'West Sussex, 2021')
+all_the_dials <- dial_1 + dial_2 + dial_3
+
+# +
+#   plot_annotation(title = 'A bunch of dial charts',
+#                   subtitle = 'West Sussex, 2021')
 
 print(all_the_dials)
+ggsave(paste0(save_place,'workforce_dial_chart.png'), plot = all_the_dials, width = 30, height = 10, units = 'cm', dpi = 'print')

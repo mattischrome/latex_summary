@@ -11,7 +11,6 @@ library(ggtext)
 source_place <- '~/Documents/JSNA/latex_summary/data_sources/'
 
 # Configure location for saving files
-# save_place <- "C:/Users/sbac5120/OneDrive - West Sussex County Council/Documents/Screening data"
 save_place <- '~/Documents/JSNA/latex_summary/images/'
 
 # Fingertips-y stuff

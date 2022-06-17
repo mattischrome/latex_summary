@@ -19,20 +19,21 @@ inds <- indicators()
 
 
 ### MY VARIABLES
-XXXX <- 40601
-YYYY <- "Under 75 mortality rate from liver disease"
+XXXX <- 90861
+YYYY <- "Under 75 mortality rate from liver disease (3yr range)"
 ZZZZ <- "u75_liver_line"
 
 
 ##
 le_indicator <- XXXX
 
-df <- fingertips_data(IndicatorID = le_indicator, AreaTypeID = 102)
+df <- fingertips_data(IndicatorID = le_indicator, AreaTypeID = 402)
 areas_of_interest <- c('England', 'South East Region', 'West Sussex')
 
 df <- df %>% 
   filter(AreaName %in% areas_of_interest) %>% 
-  filter(Sex == 'Persons')
+  filter(Sex == 'Persons') %>% 
+  filter(Timeperiodrange == '3y')
 
 
 indicator_timeperiod <- df$Timeperiod %>% unique() %>% sort()
@@ -40,6 +41,7 @@ indicator_timeperiod[seq(2,length(indicator_timeperiod),2)] <- ''
 
 caption_data <- df %>% 
   filter(TimeperiodSortable == max(TimeperiodSortable)) %>% 
+  filter(Timeperiodrange == '1yr') %>% 
   select(AreaName,Value,Timeperiod) %>% 
   mutate(Value = round(Value,1))
 

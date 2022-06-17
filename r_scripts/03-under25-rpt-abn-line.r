@@ -19,15 +19,15 @@ inds <- indicators()
 
 
 ### MY VARIABLES
-XXXX <- 91521
-YYYY <- "Chlamydia diagnostic rate / 100,000"
+XXXX <- 90741
+YYYY <- "Repeat abortions in Under 25s"
 ZZZZ <- "ct_diag_line"
 
 
 ##
 le_indicator <- XXXX
 
-df <- fingertips_data(IndicatorID = le_indicator, AreaTypeID = 102)
+df <- fingertips_data(IndicatorID = le_indicator, AreaTypeID = 402)
 areas_of_interest <- c('England', 'South East Region', 'West Sussex')
 
 df <- df %>% 
@@ -36,7 +36,7 @@ df <- df %>%
 
 
 indicator_timeperiod <- df$Timeperiod %>% unique() %>% sort()
-indicator_timeperiod[seq(1,length(indicator_timeperiod),2)] <- ''
+indicator_timeperiod[seq(2,length(indicator_timeperiod),2)] <- ''
 
 # caption_data <- df %>% 
 #   filter(TimeperiodSortable == max(TimeperiodSortable)) %>% 
@@ -64,4 +64,4 @@ plot <- ggplot(
 
 plot
 
-ggsave(plot, filename = paste0(ZZZZ,".png"),path = save_place, bg = 'transparent', units = 'mm', width = 235, height = 130)
+ggsave(plot, filename = "repeat_abortions_line.png", path = save_place, bg = 'transparent', units = 'mm', width = 220, height = 90)

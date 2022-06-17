@@ -95,4 +95,4 @@ obese_rag <- ggplot(
 
 print(obese_rag)
 
-ggsave(obese_rag, filename = 'obesity_rag_bar.png', path = save_place, bg = 'transparent', units = 'mm', width = 180, height = 180)
+ggsave(obese_rag, filename = 'obesity_rag_bar.png', path = save_place, bg = 'transparent', units = 'mm', width = 180, height = 100)

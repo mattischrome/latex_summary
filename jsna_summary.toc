@@ -93,11 +93,11 @@
 \contentsline {paragraph}{Key Points}{32}{paragraph*.81}%
 \contentsline {paragraph}{A focus on chlamydia}{34}{paragraph*.86}%
 \contentsline {paragraph}{Screening in 15-24 year-olds}{34}{paragraph*.88}%
-\contentsline {subsection}{\numberline {3.10}Screening}{34}{subsection.3.10}%
-\contentsline {subsubsection}{\numberline {3.10.1}Flu jabs - for at risk groups}{34}{subsubsection.3.10.1}%
-\contentsline {subsubsection}{\numberline {3.10.2}NHS Health Checks}{35}{subsubsection.3.10.2}%
-\contentsline {subsubsection}{\numberline {3.10.3}Non-Cancer Screening}{35}{subsubsection.3.10.3}%
-\contentsline {paragraph}{Diabetic Eye screening uptake}{35}{paragraph*.91}%
+\contentsline {subsection}{\numberline {3.10}Screening}{35}{subsection.3.10}%
+\contentsline {subsubsection}{\numberline {3.10.1}Flu jabs - for at risk groups}{35}{subsubsection.3.10.1}%
+\contentsline {subsubsection}{\numberline {3.10.2}NHS Health Checks}{36}{subsubsection.3.10.2}%
+\contentsline {subsubsection}{\numberline {3.10.3}Non-Cancer Screening}{36}{subsubsection.3.10.3}%
+\contentsline {paragraph}{Diabetic Eye screening uptake}{36}{paragraph*.92}%
 \contentsline {subsubsection}{\numberline {3.10.4}Cancer Screening Programmes}{36}{subsubsection.3.10.4}%
 \contentsline {subsection}{\numberline {3.11}Mental Health}{38}{subsection.3.11}%
 \contentsline {subsubsection}{\numberline {3.11.1}APMS Key Findings}{38}{subsubsection.3.11.1}%
@@ -107,7 +107,7 @@
 \contentsline {subsubsection}{\numberline {3.11.4}Wellbeing}{38}{subsubsection.3.11.4}%
 \contentsline {paragraph}{People with a low satisfaction score}{38}{paragraph*.97}%
 \contentsline {paragraph}{People with a low worthwhile score}{38}{paragraph*.98}%
-\contentsline {paragraph}{People with a high anxiety score}{38}{paragraph*.99}%
+\contentsline {paragraph}{People with a high anxiety score}{39}{paragraph*.99}%
 \contentsline {paragraph}{People with a low happiness score}{39}{paragraph*.100}%
 \contentsline {subsubsection}{\numberline {3.11.5}Measuring Wellbeing}{41}{subsubsection.3.11.5}%
 \contentsline {subsection}{\numberline {3.12}Premature Mortality}{42}{subsection.3.12}%
@@ -121,34 +121,34 @@
 \contentsline {section}{\numberline {4}Ageing Well}{47}{section.4}%
 \contentsline {subsection}{\numberline {4.1}Summary}{47}{subsection.4.1}%
 \contentsline {subsection}{\numberline {4.2}Over 65 Population Background}{47}{subsection.4.2}%
-\contentsline {paragraph}{Population aged 65 years or over}{47}{paragraph*.109}%
+\contentsline {paragraph}{Population aged 65 years or over}{47}{paragraph*.108}%
 \contentsline {subsection}{\numberline {4.3}Long Term Health Conditions}{48}{subsection.4.3}%
-\contentsline {paragraph}{Older people with long term conditions}{48}{paragraph*.110}%
-\contentsline {paragraph}{Musculoskeletal problems (MSK)}{48}{paragraph*.111}%
-\contentsline {paragraph}{Sensory impairment}{48}{paragraph*.112}%
+\contentsline {paragraph}{Older people with long term conditions}{48}{paragraph*.109}%
+\contentsline {paragraph}{Musculoskeletal problems (MSK)}{48}{paragraph*.110}%
+\contentsline {paragraph}{Sensory impairment}{48}{paragraph*.111}%
 \contentsline {subsection}{\numberline {4.4}Multi-morbidity estimates}{49}{subsection.4.4}%
-\contentsline {paragraph}{Multi-morbidity Public Health Estimates}{49}{paragraph*.113}%
+\contentsline {paragraph}{Multi-morbidity Public Health Estimates}{49}{paragraph*.112}%
 \contentsline {subsubsection}{\numberline {4.4.1}Multi-morbidity estimates by age - West Sussex}{49}{subsubsection.4.4.1}%
 \contentsline {subsection}{\numberline {4.5}Segmenting the 65+ Population}{49}{subsection.4.5}%
 \contentsline {subsubsection}{\numberline {4.5.1}Using GP Patient Register Data}{49}{subsubsection.4.5.1}%
-\contentsline {paragraph}{Age of Patient and Number of Long Term Conditions}{49}{paragraph*.119}%
+\contentsline {paragraph}{Age of Patient and Number of Long Term Conditions}{49}{paragraph*.118}%
 \contentsline {subsection}{\numberline {4.6}Self care}{51}{subsection.4.6}%
-\contentsline {paragraph}{Confidence in managing condition(s)}{51}{paragraph*.120}%
-\contentsline {paragraph}{Enough support from local services and organisations to help manage condition(s)}{51}{paragraph*.121}%
+\contentsline {paragraph}{Confidence in managing condition(s)}{51}{paragraph*.119}%
+\contentsline {paragraph}{Enough support from local services and organisations to help manage condition(s)}{51}{paragraph*.120}%
 \contentsline {subsection}{\numberline {4.7}Need Related to Activities of Daily Living}{51}{subsection.4.7}%
 \contentsline {subsubsection}{\numberline {4.7.1}Social Care - Expressed Demand}{51}{subsubsection.4.7.1}%
-\contentsline {paragraph}{Route of Access - New Clients (Excluding Repeat Requests)}{51}{paragraph*.122}%
+\contentsline {paragraph}{Route of Access - New Clients (Excluding Repeat Requests)}{51}{paragraph*.121}%
 \contentsline {subsection}{\numberline {4.8}Demand over time}{52}{subsection.4.8}%
 \contentsline {subsection}{\numberline {4.9}West Sussex Social Care}{52}{subsection.4.9}%
 \contentsline {subsubsection}{\numberline {4.9.1}Overview of requests for support 2018-19 and the outcomes}{52}{subsubsection.4.9.1}%
 \contentsline {subsection}{\numberline {4.10}Adult Social Care Users Survey}{52}{subsection.4.10}%
-\contentsline {paragraph}{Adult Social Care Survey 2018-19}{52}{paragraph*.123}%
+\contentsline {paragraph}{Adult Social Care Survey 2018-19}{52}{paragraph*.122}%
 \contentsline {subsection}{\numberline {4.11}Falls and Fractures}{53}{subsection.4.11}%
-\contentsline {paragraph}{Falls People Aged 65 years or over}{53}{paragraph*.124}%
-\contentsline {paragraph}{Hip Fractures - People Aged 65 years or over}{53}{paragraph*.125}%
+\contentsline {paragraph}{Falls People Aged 65 years or over}{53}{paragraph*.123}%
+\contentsline {paragraph}{Hip Fractures - People Aged 65 years or over}{53}{paragraph*.124}%
 \contentsline {subsubsection}{\numberline {4.11.1}Emergency Admissions for Falls - Age and Sex Profile}{53}{subsubsection.4.11.1}%
 \contentsline {subsubsection}{\numberline {4.11.2}Vaccination coverage in over-65s}{53}{subsubsection.4.11.2}%
 \contentsline {subsection}{\numberline {4.12}Excess Winter Deaths and Winter Wellbeing}{53}{subsection.4.12}%
 \contentsline {subsubsection}{\numberline {4.12.1}West Sussex Excess Winter Deaths}{54}{subsubsection.4.12.1}%
-\contentsline {paragraph}{Excess Winter Deaths - West Sussex 1992 to 2018 Single Year All Ages}{54}{paragraph*.128}%
+\contentsline {paragraph}{Excess Winter Deaths - West Sussex 1992 to 2018 Single Year All Ages}{54}{paragraph*.127}%
 \contentsfinish 

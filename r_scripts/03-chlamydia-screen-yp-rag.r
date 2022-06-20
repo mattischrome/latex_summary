@@ -93,4 +93,4 @@ cts_rag <- ggplot(
 
 print(cts_rag)
 
-ggsave(cts_rag, filename = 'chlamydia_screen_yp_rag_bar.png', path = save_place, bg = 'transparent', units = 'mm', width = 180, height = 180)
+ggsave(cts_rag, filename = 'chlamydia_screen_yp_rag_bar.png', path = save_place, bg = 'transparent', units = 'mm', width = 180, height = 90)

@@ -102,5 +102,5 @@ time_plot <- ggplot(
 
 time_plot
 
-ggsave(rag_bar_chart, filename = 'aaa_rag_bar.png', path = save_place, bg = 'transparent', units = 'mm', width = 180, height = 180)
+ggsave(rag_bar_chart, filename = 'aaa_rag_bar.png', path = save_place, bg = 'transparent', units = 'mm', width = 180, height = 90)
 ggsave(time_plot, filename = 'aaa_time.png', path = save_place, bg = 'transparent', units = 'mm', width = 180, height = 180)

@@ -68,7 +68,7 @@ rag_colours <- c('Better' ='green','Similar'='orange','Not compared'='gray','Wor
 
 # FYI This is a helpful blog post on all things bar chart: https://www.cedricscherer.com/2021/07/05/a-quick-how-to-on-labelling-bar-graphs-in-ggplot2/
 
-indicator_name <- df_plot_all$IndicatorName %>% unique() %>% str_replace('^Cancer ','% ') %>% str_to_title() %>% str_wrap(width = 40)
+indicator_name <- df_plot_all$IndicatorName %>% unique() %>% str_replace('^Cancer ','% ') %>% str_to_title() %>% str_wrap(width = 22)
 indicator_caption <- paste0('PHE Fingertips, ', df_plot_all$Timeperiod %>% unique())
 
 bowel_rag <- ggplot(
@@ -90,4 +90,4 @@ bowel_rag <- ggplot(
 
 # print(bowel_rag)
 
-ggsave(bowel_rag, filename = 'bowel_cancer_rag_bar.png', path = save_place, bg = 'transparent', units = 'mm', width = 180, height = 180)
+ggsave(bowel_rag, filename = 'bowel_cancer_rag_bar.png', path = save_place, bg = 'transparent', units = 'mm', width = 180, height = 90)

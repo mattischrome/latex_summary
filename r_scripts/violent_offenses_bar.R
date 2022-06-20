@@ -51,7 +51,7 @@ df_plot_all <-rbind(df_to_plot %>% filter(AreaName == 'West Sussex'), df_to_plot
 
 # This outputs all the possible values in this column
 # (df_plot_all$ComparedtoEnglandvalueorpercentiles %>% unique)
-rag_colours <- c('Better' ='green','Similar'='orange','Not compared'='#0b53c1','Worse'='red')
+rag_colours <- c('Better' ='green','Similar'='orange','Not compared'='gray','Worse'='red')
 
 # An added complication in this plot is that we need England, South East and West Sussex up top, and then the LTLAs in order of their rates
 # Nice to have: skip a bar between these values and the LTLAs - not working at the moment, might revisit at some point possibly with facets
@@ -65,9 +65,15 @@ bar_df <- df_plot_all %>%
   mutate(AreaName = forcats::fct_rev(forcats::fct_inorder(AreaName)),
          AreaName = forcats::fct_relevel(AreaName, rev(areas_of_interest), after = Inf))
 
+upper_comp_value <- bar_df %>% filter(AreaName == 'England') %>% select(`UpperCI95.0limit`) %>% as.numeric()
+lower_comp_value <- bar_df %>% filter(AreaName == 'England') %>% select(`LowerCI95.0limit`) %>% as.numeric()
+
+rag_bar_df <- bar_df %>% mutate(rag_colour = ifelse(Value < lower_comp_value, 'Better',ifelse(Value > upper_comp_value,'Worse','Similar'))) %>% 
+  mutate(rag_colour = ifelse(AreaType %in% c('England','Region'),'Not compared',rag_colour))
+
 rag_bar_chart <- ggplot(
-  data = bar_df,
-  mapping = aes(x = Value, y = AreaName, fill = ComparedtoEnglandvalueorpercentiles)) +
+  data = rag_bar_df,
+  mapping = aes(x = Value, y = AreaName, fill = rag_colour)) +
   geom_bar(stat = 'identity')+
   scale_fill_manual(values = rag_colours)+
   theme_wsj() +
@@ -77,9 +83,9 @@ rag_bar_chart <- ggplot(
         legend.text = element_text(size = rel(1)),
         title = element_text(family = "sans", size = rel(1)),
         rect = element_rect(fill = 'transparent', linetype = 0, colour = NA),
-        axis.title.y = element_text(colour = 'black', size=rel(1))) +
+        axis.title.x = element_text(colour = 'black', size=rel(1))) +
   labs(x = 'Violent crime - violence offences per 1,000 population')
 
 print(rag_bar_chart)
 
-ggsave(rag_bar_chart, filename = 'violent_offences_bar.png', path = save_place, bg = 'transparent', units = 'mm', width = 180, height = 180)
+ggsave(rag_bar_chart, filename = 'violent_offences_bar.png', path = save_place, bg = 'transparent', units = 'mm', width = 180, height = 110)

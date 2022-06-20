@@ -20,8 +20,8 @@ inds <- indicators()
 
 ### MY VARIABLES
 XXXX <- 90861
-YYYY <- "Under 75 mortality rate from liver disease (3yr range)"
-ZZZZ <- "u75_liver_line"
+YYYY <- "Under 75 mortality rate<br>from liver disease"
+ZZZZ <- "u75_liver_line_3y"
 
 
 ##
@@ -37,34 +37,33 @@ df <- df %>%
 
 
 indicator_timeperiod <- df$Timeperiod %>% unique() %>% sort()
-indicator_timeperiod[seq(2,length(indicator_timeperiod),2)] <- ''
+indicator_timeperiod[setdiff(1:length(indicator_timeperiod),seq(2,length(indicator_timeperiod),3))] <- ''
 
 caption_data <- df %>% 
   filter(TimeperiodSortable == max(TimeperiodSortable)) %>% 
-  filter(Timeperiodrange == '1yr') %>% 
   select(AreaName,Value,Timeperiod) %>% 
   mutate(Value = round(Value,1))
 
-caption <- paste0('**',str_replace_all(caption_data[2,3],' ',''),' YYYY**<br>',caption_data[2,1],' = ',caption_data[2,2],' years<br>',caption_data[1,1],' = ',caption_data[1,2],' years')
+caption <- paste0('**',str_replace_all(caption_data[2,3],' ',''),' ',YYYY,'**<br>',caption_data[2,1],' = ',caption_data[2,2],' per 100,000<br>',caption_data[1,1],' = ',caption_data[1,2],' per 100,000')
 
 plot <- ggplot(
   data = df,
   mapping = aes(x = Timeperiod, y = Value, color = AreaName, group=AreaName))+
   geom_line(size=2) +
   geom_point(shape=21, size=3, fill = 'white', stroke = 3) +
-  ##geom_richtext(x='2011 - 13', y=82.5, label=caption, stat = 'unique', color = 'black', hjust=0, fill = NA, label.color = NA, size = rel(5)) +
-  expand_limits(y = c(0, 25)) +
+  geom_richtext(x='2009 - 11', y=12.5, label=caption, stat = 'unique', color = 'black', hjust=0, fill = NA, label.color = NA, size = rel(4)) +
+  expand_limits(y = c(0, 15)) +
   scale_x_discrete(labels = indicator_timeperiod) +
   theme_wsj() +
   scale_color_ft() +
-  theme(legend.position = c(.85,.1),
+  theme(legend.position = c(.8,.1),
         legend.title = element_blank(),
         legend.text = element_text(size = rel(1)),
         title = element_text(family = "sans", size = rel(1)),
         rect = element_rect(fill = 'transparent', linetype = 0, colour = NA),
         axis.title.y = element_text(colour = 'black', size=rel(1))) +
-  labs(y=YYYY)
+  labs(y='DSR Rate per 100,000')
 
 plot
 
-ggsave(plot, filename = paste0(ZZZZ,".png"),path = save_place, bg = 'transparent', units = 'mm', width = 235, height = 130)
+ggsave(plot, filename = paste0(ZZZZ,".png"),path = save_place, bg = 'transparent', units = 'mm', width = 180, height = 90)

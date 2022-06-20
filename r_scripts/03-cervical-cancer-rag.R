@@ -90,4 +90,4 @@ cerv_rag <- ggplot(
 
 # print(cerv_rag)
 
-ggsave(cerv_rag, filename = 'cervical_cancer_rag_bar.png', path = save_place, bg = 'transparent', units = 'mm', width = 180, height = 180)
+ggsave(cerv_rag, filename = 'cervical_cancer_rag_bar.png', path = save_place, bg = 'transparent', units = 'mm', width = 180, height = 90)

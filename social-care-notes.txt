@@ -1,0 +1,52 @@
+New requests for Support by Local authority (2020-21) (Age 18-64): 5965
+New requests for Support by Local authority (2020-21) (Age 65 and over): 17075
+Completed episodes of ST-Max by Local authority (2020-21) (Age 18-64): 40
+Completed episodes of ST-Max by Local authority (2020-21) (Age 65 and over): 915
+
+New requests for support is SALT Table 8
+In West Sussex, there 34% fewer requests for support in working age adults (nationally these increased by 3%) and 32% fewer requests in those aged 65 and over (nationally these fell by 2%).
+
+SALT Table 22 - Percentage of total episodes of ST-Max by what happened next
+
+What happened next, 2015/16, 2016/17, 2017/18, 2018/19, 2019/20, 2020/21
+Early Cessation of service (not leading to long term support),460,0,25,85,75,60
+Long Term Support,300,405,590,120,180,95
+No Services Provided: Needs identified but self funding or support declined,0,0,100,150,190,230
+No Services Provided: No identified needs,725,655,495,410,535,475
+No Services Provided: Universal services / signposted to other services,45,NA,NA,NA,NA,10,
+Ongoing Low Level Support,5,30,15,NA,NA,0
+Short Term Support,5,10,NA,90,70,75
+
+Long term support SALT Table 33
+
+Adult Social Care Survey (ASCS)
+The 2020-21 ASCS was voluntary. As only 18 CASSRs participated in the 2020-21 survey, aggregated ASCOF outcomes have not been calculated at regional, council type and England level. The 18 CASSR average has been included for comparison. Further details are available in the ASCS publication.
+
+Delayed Transfers of Care (DToC)
+Due to the impact of coronavirus (COVID-19), the DToC collection has been paused for 2020-21.
+
+Survey of Adult Carers in England (SACE)
+Due to the additional pressures that COVID-19 has brought on all services, the Survey of Adult Carers in England (SACE) 2020-21 was postponed by one full year. It will continue to run biennially and will be included in the 2021-22 ASCOF publication
+
+NHS Digital:
+
+Adult Social Care, like many public services, has been impacted considerably by the coronavirus (COVID-19) pandemic. Operationally, local authorities will have responded to these challenges differently; some services may have been paused due to restrictions, or to support other activities, and the associated spend and activity may have been captured locally in different ways. As such, even though NHS Digital is collecting the same data, the pandemic is affecting trends and making comparisons over time difficult.
+
+Many year on year changes have been influenced by the pandemic, for example by the increased funding made available, and as local authorities worked out the best response in their area, 2020-21 data is also likely to be subject to more local variation than in previous years. NHS Digital have worked closely with local authorities throughout, gathering extra context on how the pandemic has impacted both provision and reporting.
+
+Some of the known strengths and limitations associated with this year’s data, directly as a result of COVID-19, are listed below so that users of the data can consider this as they read through the key findings and analysis. Further detail will be referenced alongside the relevant analysis and where local authorities have made us aware of specific issues affecting their provision/data, these are listed in the accompanying data quality outputs. There may be other issues which have impacted a local authority’s data which we have not been aware of, so this should also be taken into consideration.
+
+• From 19 March to 31 August 2020 the government, via the NHS, paid for new or extensions of existing packages of care and support for patients discharged from hospital or who would otherwise have been admitted to hospital. Although the SALT collection does not typically capture clients supported by the NHS, a decision was taken to include activity funded under these COVID-19 hospital discharge arrangements, so long as it met the definition of care provided under the Care Act and was commissioned by the LA. This may mean that more clients were included in the collection over the reporting period; local authorities also told us that some of these clients would have been supported by the local authority anyway so the impact of this may vary from authority to authority.
+
+• Local authorities told us that resource was reallocated to focus on the most appropriate support. As the SALT collection does not cover a complete picture of activity, this means that reductions against one service line would not necessarily be offset by an increase elsewhere in the collection.
+
+• Lockdown restrictions meant that some services e.g. day centres had to close. In many cases, local authorities told us that online support and contact was still available but not everyone may have accessed it. This means that clients are still included in the SALT figures as they continue to be supported by the LA however the support may be through a different means than usual.
+
+• All adult social care COVID-19 related costs should be captured in ASC-FR. Whilst separate lines have been added to the RO return for new COVID-19 associated categories, these could not be added to the ASC-FR data collection at short notice due to the associated timescales required by the change process without impacting the timeliness of this published data. It is acknowledged that some of the spending (for example, on activity funded under COVID-19 hospital discharge arrangements, or where grant funding is passported directly to a care provider) may not directly relate to people whose care is supported by the local authority however a decision was taken that given the increased funding, these costs should be included for completeness, reported under Commissioning and Service Delivery, as this is Adult Social Care sector support, through local authorities. This means that year on year overall totals are not directly comparable.
+
+• Some local authorities told us they were supporting care homes through payments based on care plans, or block bookings, rather than the actual weeks of care delivered. This means that some weekly costs of care (Unit costs) in ASC-FR could be distorted as a result of this sector support.
+
+The England-level statistics for 2020-21 have been estimated as one local authority was not able to submit for SALT and two for ASC-FR.
+
+23,000 requests for support in West Sussex, this is equivalent to 63 requests a day.
+

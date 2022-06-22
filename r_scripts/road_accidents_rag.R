@@ -87,4 +87,4 @@ rag_bar_chart <- ggplot(
 
 print(rag_bar_chart)
 
-ggsave(rag_bar_chart, filename = paste0(ZZZZ,".png"), path = save_place, bg = 'transparent', units = 'mm', width = 180, height = 180)
+ggsave(rag_bar_chart, filename = paste0(ZZZZ,".png"), path = save_place, bg = 'transparent', units = 'mm', width = 180, height = 110)

@@ -134,22 +134,24 @@
 \contentsline {subsection}{\numberline {4.6}Self care}{52}{subsection.4.6}%
 \contentsline {paragraph}{Confidence in managing condition(s)}{53}{paragraph*.123}%
 \contentsline {paragraph}{Enough support from local services and organisations to help manage condition(s)}{53}{paragraph*.126}%
-\contentsline {subsection}{\numberline {4.7}Need Related to Activities of Daily Living}{53}{subsection.4.7}%
-\contentsline {subsubsection}{\numberline {4.7.1}Social Care - Expressed Demand}{53}{subsubsection.4.7.1}%
+\contentsline {subsection}{\numberline {4.7}Social Care - Expressed Demand}{53}{subsection.4.7}%
+\contentsline {subsubsection}{\numberline {4.7.1}Need Related to Activities of Daily Living}{53}{subsubsection.4.7.1}%
 \contentsline {subsubsection}{\numberline {4.7.2}Route of Access - New Clients (Excluding Repeat Requests)}{54}{subsubsection.4.7.2}%
-\contentsline {subsection}{\numberline {4.8}Demand over time}{54}{subsection.4.8}%
+\contentsline {subsubsection}{\numberline {4.7.3}Demand over time}{54}{subsubsection.4.7.3}%
 \contentsline {paragraph}{People aged 18-64 years}{54}{paragraph*.129}%
 \contentsline {paragraph}{People aged 65 years or over}{54}{paragraph*.130}%
 \contentsline {paragraph}{Permanent admissions to residential and nursing care homes per 100,000 population}{54}{paragraph*.131}%
-\contentsline {subsection}{\numberline {4.9}West Sussex Social Care}{57}{subsection.4.9}%
-\contentsline {subsubsection}{\numberline {4.9.1}Overview of requests for support 2018-19 and the outcomes}{57}{subsubsection.4.9.1}%
-\contentsline {subsection}{\numberline {4.10}Adult Social Care Users Survey}{57}{subsection.4.10}%
-\contentsline {subsection}{\numberline {4.11}Falls and Fractures}{57}{subsection.4.11}%
+\contentsline {subsection}{\numberline {4.8}West Sussex Social Care}{57}{subsection.4.8}%
+\contentsline {subsubsection}{\numberline {4.8.1}Overview of requests for support 2018-19 and the outcomes}{57}{subsubsection.4.8.1}%
+\contentsline {subsubsection}{\numberline {4.8.2}ASCOF Outcomes and the Adult Social Care Users Survey 2020-21}{57}{subsubsection.4.8.2}%
+\contentsline {subsection}{\numberline {4.9}Falls and Fractures}{57}{subsection.4.9}%
 \contentsline {paragraph}{Falls People Aged 65 years or over}{57}{paragraph*.132}%
 \contentsline {paragraph}{Hip Fractures - People Aged 65 years or over}{57}{paragraph*.133}%
-\contentsline {subsubsection}{\numberline {4.11.1}Emergency Admissions for Falls - Age and Sex Profile}{58}{subsubsection.4.11.1}%
-\contentsline {subsubsection}{\numberline {4.11.2}Vaccination coverage in over-65s}{58}{subsubsection.4.11.2}%
-\contentsline {subsection}{\numberline {4.12}Excess Winter Deaths and Winter Wellbeing}{58}{subsection.4.12}%
-\contentsline {subsubsection}{\numberline {4.12.1}West Sussex Excess Winter Deaths}{58}{subsubsection.4.12.1}%
-\contentsline {paragraph}{Excess Winter Deaths - West Sussex 1992 to 2018 Single Year All Ages}{58}{paragraph*.136}%
+\contentsline {subsubsection}{\numberline {4.9.1}Emergency Admissions for Falls - Age and Sex Profile}{58}{subsubsection.4.9.1}%
+\contentsline {subsubsection}{\numberline {4.9.2}Vaccination coverage in over-65s}{58}{subsubsection.4.9.2}%
+\contentsline {subsection}{\numberline {4.10}Mortality}{58}{subsection.4.10}%
+\contentsline {subsubsection}{\numberline {4.10.1}Underlying Cause of Death}{58}{subsubsection.4.10.1}%
+\contentsline {subsubsection}{\numberline {4.10.2}Place of Death}{59}{subsubsection.4.10.2}%
+\contentsline {subsubsection}{\numberline {4.10.3}Excess Winter Deaths}{59}{subsubsection.4.10.3}%
+\contentsline {paragraph}{Excess Winter Deaths - West Sussex 1992 to 2020 Single Year All Ages}{59}{paragraph*.138}%
 \contentsfinish 

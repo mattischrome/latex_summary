@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2022/dev) (preloaded format=pdflatex 2022.1.23)  27 JUN 2022 14:56
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2022/dev) (preloaded format=pdflatex 2022.1.23)  27 JUN 2022 18:52
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -942,12 +942,12 @@ LaTeX Font Info:    Font shape `T1/Inter-LF/b/n' will be
 LaTeX Font Info:    Font shape `T1/Inter-LF/b/n' will be
 (Font)              scaled to size 12.0pt on input line 111.
  (./jsna_summary.toc
-LaTeX Font Info:    Trying to load font information for TS1+Inter-LF on input line 8.
+LaTeX Font Info:    Trying to load font information for TS1+Inter-LF on input line 12.
  (/usr/local/texlive/2021/texmf-dist/tex/latex/inter/TS1Inter-LF.fd
 File: TS1Inter-LF.fd 2020/12/22 (autoinst) Font definitions for TS1/Inter-LF.
 )
 LaTeX Font Info:    Font shape `TS1/Inter-LF/m/n' will be
-(Font)              scaled to size 8.0pt on input line 8.
+(Font)              scaled to size 8.0pt on input line 12.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `Inter-LF' (encoding: TS1).
 (microtype)             For optimal results, create family-specific settings.
@@ -959,56 +959,21 @@ Package microtype Info: Loading generic protrusion settings for font family
 \tf@toc=\write5
 \openout5 = `jsna_summary.toc'.
 
- (./jsna_summary.tdo
-Overfull \hbox (11.065pt too wide) detected at line 1
- []\T1/Inter-LF/m/n/10 14
- []
-
-
-Overfull \hbox (10.72499pt too wide) detected at line 2
- []\T1/Inter-LF/m/n/10 15
- []
-
-
-Overfull \hbox (10.881pt too wide) detected at line 3
- []\T1/Inter-LF/m/n/10 16
- []
-
-
-Overfull \hbox (10.355pt too wide) detected at line 4
- []\T1/Inter-LF/m/n/10 17
- []
-
-
-Overfull \hbox (10.696pt too wide) detected at line 5
- []\T1/Inter-LF/m/n/10 21
- []
-
-
-Overfull \hbox (10.696pt too wide) detected at line 6
- []\T1/Inter-LF/m/n/10 21
- []
-
-
-Overfull \hbox (10.696pt too wide) detected at line 7
- []\T1/Inter-LF/m/n/10 21
- []
-
-
-Overfull \hbox (12.28699pt too wide) detected at line 8
- []\T1/Inter-LF/m/n/10 26
- []
-
-
-Overfull \hbox (12.58499pt too wide) detected at line 9
- []\T1/Inter-LF/m/n/10 48
- []
-
+ (./preamble-old.tex
+LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 11.
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/base/t1cmtt.fd
+File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
-\tf@tdo=\write6
-\openout6 = `jsna_summary.tdo'.
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `cmtt' (encoding: T1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
 
- (./preamble.tex) [2] (./chapter1-old.tex
+Overfull \hbox (0.68301pt too wide) in paragraph at lines 15--16
+\T1/Inter-LF/m/n/10 (-20) Sus-sex web-site. ([][]$\T1/cmtt/m/n/10 https : / / www . westsussex . gov . uk / campaigns / west-[]sussex-[]life/$[][]\T1/Inter-LF/m/n/10 (-20) ) 
+ []
+
+) [2] (./chapter1-old.tex
 LaTeX Font Info:    Font shape `TS1/Inter-LF/m/n' will be
 (Font)              scaled to size 10.0pt on input line 12.
 LaTeX Font Info:    Font shape `T1/Inter-LF/m/it' will be
@@ -1036,14 +1001,6 @@ Overfull \vbox (10.3502pt too high) detected at line 21
 )
 LaTeX Font Info:    Font shape `T1/Inter-LF/m/n' will be
 (Font)              scaled to size 7.0pt on input line 135.
-LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 149.
- (/usr/local/texlive/2021/texmf-dist/tex/latex/base/t1cmtt.fd
-File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
-)
-Package microtype Info: Loading generic protrusion settings for font family
-(microtype)             `cmtt' (encoding: T1).
-(microtype)             For optimal results, create family-specific settings.
-(microtype)             See the microtype manual for details.
 
 Underfull \hbox (badness 10000) in paragraph at lines 149--149
 [][][][][]$\T1/cmtt/m/n/8 https : / / lginform . local . gov . uk / reports / lgastandard ? mod-[]metric = 105 & mod-[]period = 2 &
@@ -1067,22 +1024,22 @@ Package microtype Info: Loading generic protrusion settings for font family
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [9]
-<images/male_life_expectancy.png, id=700, 2785.40625pt x 1540.75626pt>
+<images/male_life_expectancy.png, id=672, 2785.40625pt x 1540.75626pt>
 File: images/male_life_expectancy.png Graphic file (type png)
 <use images/male_life_expectancy.png>
 Package pdftex.def Info: images/male_life_expectancy.png  used on input line 356.
 (pdftex.def)             Requested size: 382.68953pt x 211.68419pt.
-<images/female_life_expectancy.png, id=702, 2785.40625pt x 1540.75626pt>
+<images/female_life_expectancy.png, id=674, 2785.40625pt x 1540.75626pt>
 File: images/female_life_expectancy.png Graphic file (type png)
 <use images/female_life_expectancy.png>
 Package pdftex.def Info: images/female_life_expectancy.png  used on input line 357.
 (pdftex.def)             Requested size: 382.68953pt x 211.68419pt.
-<images/male_life_expectancy_gap.png, id=704, 2311.63625pt x 924.45375pt>
+<images/male_life_expectancy_gap.png, id=676, 2311.63625pt x 924.45375pt>
 File: images/male_life_expectancy_gap.png Graphic file (type png)
 <use images/male_life_expectancy_gap.png>
 Package pdftex.def Info: images/male_life_expectancy_gap.png  used on input line 368.
 (pdftex.def)             Requested size: 382.68953pt x 153.0361pt.
-<images/female_life_expectancy_gap.png, id=705, 2311.63625pt x 924.45375pt>
+<images/female_life_expectancy_gap.png, id=677, 2311.63625pt x 924.45375pt>
 File: images/female_life_expectancy_gap.png Graphic file (type png)
 <use images/female_life_expectancy_gap.png>
 Package pdftex.def Info: images/female_life_expectancy_gap.png  used on input line 369.
@@ -1092,40 +1049,30 @@ Package pdftex.def Info: images/female_life_expectancy_gap.png  used on input li
 LaTeX Warning: Text page 11 contains only floats.
 
 [11 <./images/male_life_expectancy.png> <./images/female_life_expectancy.png> <./images/male_life_expectancy_gap.png> <./images/female_life_expectancy_gap.png>] (./chapter2-old.tex [12] [13]
-<images/frs_disability_wsx.png, id=764, 1599.9775pt x 1599.9775pt>
+<images/frs_disability_wsx.png, id=737, 1599.9775pt x 1599.9775pt>
 File: images/frs_disability_wsx.png Graphic file (type png)
 <use images/frs_disability_wsx.png>
 Package pdftex.def Info: images/frs_disability_wsx.png  used on input line 127.
 (pdftex.def)             Requested size: 382.68953pt x 382.68411pt.
-Package hyperref Info: bookmark level for unknown todo defaults to 0 on input line 131.
-
-Underfull \vbox (badness 1430) has occurred while \output is active []
-
- [14] [15 <./images/frs_disability_wsx.png>] [16] [17]
-Underfull \vbox (badness 1590) has occurred while \output is active []
-
- [18]
-<images/02_school_readiness_2019.png, id=830, 2132.96875pt x 1065.9825pt>
+ [14] [15 <./images/frs_disability_wsx.png>] [16] [17] [18]
+<images/02_school_readiness_2019.png, id=807, 2132.96875pt x 1065.9825pt>
 File: images/02_school_readiness_2019.png Graphic file (type png)
 <use images/02_school_readiness_2019.png>
-Package pdftex.def Info: images/02_school_readiness_2019.png  used on input line 438.
+Package pdftex.def Info: images/02_school_readiness_2019.png  used on input line 441.
 (pdftex.def)             Requested size: 382.68953pt x 191.25047pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
  [19 <./images/02_school_readiness_2019.png>]) [20] (./chapter3-old.tex
-<images/male_HLE.png, id=867, 2785.40625pt x 1540.75626pt>
+<images/male_HLE.png, id=842, 2785.40625pt x 1540.75626pt>
 File: images/male_HLE.png Graphic file (type png)
 <use images/male_HLE.png>
 Package pdftex.def Info: images/male_HLE.png  used on input line 36.
 (pdftex.def)             Requested size: 382.68953pt x 211.68419pt.
-<images/female_HLE.png, id=868, 2785.40625pt x 1540.75626pt>
+<images/female_HLE.png, id=843, 2785.40625pt x 1540.75626pt>
 File: images/female_HLE.png Graphic file (type png)
 <use images/female_HLE.png>
 Package pdftex.def Info: images/female_HLE.png  used on input line 37.
 (pdftex.def)             Requested size: 382.68953pt x 211.68419pt.
  [21]
-<images/hle_cipfa.png, id=875, 2132.96875pt x 2132.96875pt>
+<images/hle_cipfa.png, id=851, 2132.96875pt x 2132.96875pt>
 File: images/hle_cipfa.png Graphic file (type png)
 <use images/hle_cipfa.png>
 Package pdftex.def Info: images/hle_cipfa.png  used on input line 48.
@@ -1133,8 +1080,8 @@ Package pdftex.def Info: images/hle_cipfa.png  used on input line 48.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [22 <./images/male_HLE.png> <./images/female_HLE.png>] [23 <./images/hle_cipfa.png>]
-<images/ypll_by_pcn.png, id=893, 1659.19875pt x 2132.96875pt>
+ [22 <./images/male_HLE.png> <./images/female_HLE.png> <./images/hle_cipfa.png>]
+<images/ypll_by_pcn.png, id=864, 1659.19875pt x 2132.96875pt>
 File: images/ypll_by_pcn.png Graphic file (type png)
 <use images/ypll_by_pcn.png>
 Package pdftex.def Info: images/ypll_by_pcn.png  used on input line 95.
@@ -1143,283 +1090,287 @@ Package pdftex.def Info: images/ypll_by_pcn.png  used on input line 95.
 
 LaTeX Warning: Float too large for page by 51.35577pt on input line 97.
 
-<images/longterm_jsa_claimants_wsx.png, id=894, 2132.96875pt x 1065.9825pt>
+<images/longterm_jsa_claimants_wsx.png, id=865, 2132.96875pt x 1065.9825pt>
 File: images/longterm_jsa_claimants_wsx.png Graphic file (type png)
 <use images/longterm_jsa_claimants_wsx.png>
-Package pdftex.def Info: images/longterm_jsa_claimants_wsx.png  used on input line 118.
+Package pdftex.def Info: images/longterm_jsa_claimants_wsx.png  used on input line 116.
 (pdftex.def)             Requested size: 344.41823pt x 172.12218pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [24 <./images/ypll_by_pcn.png>]
-<images/employment_gaps.png, id=908, 2132.96875pt x 1422.31375pt>
+ [23] [24 <./images/ypll_by_pcn.png> <./images/longterm_jsa_claimants_wsx.png>]
+<images/employment_gaps.png, id=889, 2132.96875pt x 1422.31375pt>
 File: images/employment_gaps.png Graphic file (type png)
 <use images/employment_gaps.png>
-Package pdftex.def Info: images/employment_gaps.png  used on input line 142.
+Package pdftex.def Info: images/employment_gaps.png  used on input line 140.
 (pdftex.def)             Requested size: 344.41823pt x 229.65831pt.
- [25 <./images/longterm_jsa_claimants_wsx.png> <./images/employment_gaps.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 207--207
+
+Underfull \hbox (badness 10000) in paragraph at lines 205--205
 [][][][][]$\T1/cmtt/m/n/8 https : / / www . skillsforcare . org . uk / adult-[]social-[]care-[]workforce-[]data /
  []
 
-<images/workforce_dial_chart.png, id=928, 3556.28625pt x 1185.42876pt>
+
+Underfull \vbox (badness 1377) has occurred while \output is active []
+
+ [25 <./images/employment_gaps.png>]
+<images/workforce_dial_chart.png, id=908, 3556.28625pt x 1185.42876pt>
 File: images/workforce_dial_chart.png Graphic file (type png)
 <use images/workforce_dial_chart.png>
-Package pdftex.def Info: images/workforce_dial_chart.png  used on input line 215.
+Package pdftex.def Info: images/workforce_dial_chart.png  used on input line 213.
 (pdftex.def)             Requested size: 382.68953pt x 127.55772pt.
-<images/03-sc-workforce.png, id=929, 2132.96875pt x 1540.75626pt>
+<images/03-sc-workforce.png, id=909, 2132.96875pt x 1540.75626pt>
 File: images/03-sc-workforce.png Graphic file (type png)
 <use images/03-sc-workforce.png>
-Package pdftex.def Info: images/03-sc-workforce.png  used on input line 227.
+Package pdftex.def Info: images/03-sc-workforce.png  used on input line 225.
 (pdftex.def)             Requested size: 382.68953pt x 276.43077pt.
 
+
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[26 <./images/workforce_dial_chart.png>]
-<images/carers_allowance_recipients.png, id=944, 2785.40625pt x 1540.75626pt>
+<images/carers_allowance_recipients.png, id=910, 2785.40625pt x 1540.75626pt>
 File: images/carers_allowance_recipients.png Graphic file (type png)
 <use images/carers_allowance_recipients.png>
-Package pdftex.def Info: images/carers_allowance_recipients.png  used on input line 288.
+Package pdftex.def Info: images/carers_allowance_recipients.png  used on input line 286.
 (pdftex.def)             Requested size: 382.68953pt x 211.68419pt.
-
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<images/wsx_unpaid_carers_by_age.png, id=945, 2785.40625pt x 1540.75626pt>
+<images/wsx_unpaid_carers_by_age.png, id=911, 2785.40625pt x 1540.75626pt>
 File: images/wsx_unpaid_carers_by_age.png Graphic file (type png)
 <use images/wsx_unpaid_carers_by_age.png>
-Package pdftex.def Info: images/wsx_unpaid_carers_by_age.png  used on input line 300.
+Package pdftex.def Info: images/wsx_unpaid_carers_by_age.png  used on input line 298.
 (pdftex.def)             Requested size: 382.68953pt x 211.68419pt.
+[26 <./images/workforce_dial_chart.png> <./images/03-sc-workforce.png>]
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[27 <./images/03-sc-workforce.png>] [28 <./images/carers_allowance_recipients.png> <./images/wsx_unpaid_carers_by_age.png>]
-<images/female_unpaid_carers.png, id=969, 2607.7425pt x 1303.87125pt>
+[27 <./images/carers_allowance_recipients.png>]
+<images/female_unpaid_carers.png, id=937, 2607.7425pt x 1303.87125pt>
 File: images/female_unpaid_carers.png Graphic file (type png)
 <use images/female_unpaid_carers.png>
-Package pdftex.def Info: images/female_unpaid_carers.png  used on input line 324.
+Package pdftex.def Info: images/female_unpaid_carers.png  used on input line 322.
 (pdftex.def)             Requested size: 378.86473pt x 189.42455pt.
-<images/male_unpaid_carers.png, id=970, 2607.7425pt x 1303.87125pt>
+<images/male_unpaid_carers.png, id=938, 2607.7425pt x 1303.87125pt>
 File: images/male_unpaid_carers.png Graphic file (type png)
 <use images/male_unpaid_carers.png>
-Package pdftex.def Info: images/male_unpaid_carers.png  used on input line 329.
+Package pdftex.def Info: images/male_unpaid_carers.png  used on input line 327.
 (pdftex.def)             Requested size: 378.86473pt x 189.42455pt.
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Overfull \vbox (197.48541pt too high) has occurred while \output is active []
 
 
 Underfull \vbox (badness 4341) has occurred while \output is active []
 
- [29 <./images/female_unpaid_carers.png> <./images/male_unpaid_carers.png>]
-<images/obesity_rag_bar.png, id=989, 2132.96875pt x 1185.42876pt>
+ [28 <./images/wsx_unpaid_carers_by_age.png> <./images/female_unpaid_carers.png> <./images/male_unpaid_carers.png>]
+<images/obesity_rag_bar.png, id=959, 2132.96875pt x 1185.42876pt>
 File: images/obesity_rag_bar.png Graphic file (type png)
 <use images/obesity_rag_bar.png>
-Package pdftex.def Info: images/obesity_rag_bar.png  used on input line 391.
+Package pdftex.def Info: images/obesity_rag_bar.png  used on input line 389.
 (pdftex.def)             Requested size: 382.68953pt x 212.68062pt.
 
-Overfull \hbox (3.8102pt too wide) in paragraph at lines 396--397
+Overfull \hbox (3.8102pt too wide) in paragraph at lines 394--395
 [] []\T1/Inter-LF/b/n/9 (-20) West Sus-sex To-bacco Con-trol Strat-egy 2019-2022[] \T1/Inter-LF/m/n/10 (-20) Smok-ing re-mains the sin-gle biggest
  []
 
-[30 <./images/obesity_rag_bar.png>]
-Overfull \hbox (2.51726pt too wide) in paragraph at lines 435--436
+[29 <./images/obesity_rag_bar.png>]
+Overfull \hbox (2.51726pt too wide) in paragraph at lines 433--434
 []\T1/Inter-LF/m/n/10 (-20) There were 1,887 ad-mis-sions for alcohol-related con-di-tions (Broad) per 100,000
  []
 
-<images/u75_liver_line.png, id=1008, 2132.96875pt x 1065.9825pt>
+<images/u75_liver_line.png, id=978, 2132.96875pt x 1065.9825pt>
 File: images/u75_liver_line.png Graphic file (type png)
 <use images/u75_liver_line.png>
-Package pdftex.def Info: images/u75_liver_line.png  used on input line 447.
+Package pdftex.def Info: images/u75_liver_line.png  used on input line 445.
 (pdftex.def)             Requested size: 382.68953pt x 191.25047pt.
 
 Underfull \vbox (badness 1748) has occurred while \output is active []
 
- [31]
-Underfull \hbox (badness 1248) in paragraph at lines 469--469
+ [30]
+Underfull \hbox (badness 1248) in paragraph at lines 467--467
 [][][]\T1/Inter-LF/m/n/8 (+20) Source: RSPH Tak-ing a New Line in Drugs [][]$\T1/cmtt/m/n/8 https : / / www . rsph . org . uk / our-[]work / campaigns /
  []
 
-[32 <./images/u75_liver_line.png>]
-<images/u18s_conc_line.png, id=1049, 2785.40625pt x 1540.75626pt>
+[31 <./images/u75_liver_line.png>]
+<images/u18s_conc_line.png, id=1018, 2785.40625pt x 1540.75626pt>
 File: images/u18s_conc_line.png Graphic file (type png)
 <use images/u18s_conc_line.png>
-Package pdftex.def Info: images/u18s_conc_line.png  used on input line 543.
+Package pdftex.def Info: images/u18s_conc_line.png  used on input line 541.
 (pdftex.def)             Requested size: 382.68953pt x 211.68419pt.
-<images/abortions_lt_10wks_line.png, id=1050, 2607.7425pt x 1065.9825pt>
+<images/abortions_lt_10wks_line.png, id=1019, 2607.7425pt x 1065.9825pt>
 File: images/abortions_lt_10wks_line.png Graphic file (type png)
 <use images/abortions_lt_10wks_line.png>
-Package pdftex.def Info: images/abortions_lt_10wks_line.png  used on input line 549.
+Package pdftex.def Info: images/abortions_lt_10wks_line.png  used on input line 547.
 (pdftex.def)             Requested size: 382.68953pt x 156.4259pt.
-<images/repeat_abortions_line.png, id=1051, 2607.7425pt x 1065.9825pt>
+<images/repeat_abortions_line.png, id=1020, 2607.7425pt x 1065.9825pt>
 File: images/repeat_abortions_line.png Graphic file (type png)
 <use images/repeat_abortions_line.png>
-Package pdftex.def Info: images/repeat_abortions_line.png  used on input line 555.
+Package pdftex.def Info: images/repeat_abortions_line.png  used on input line 553.
 (pdftex.def)             Requested size: 382.68953pt x 156.4259pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [33 <./images/u18s_conc_line.png>]
-<images/ct_diag_line.png, id=1063, 2607.7425pt x 1065.9825pt>
+ [32 <./images/u18s_conc_line.png>]
+<images/ct_diag_line.png, id=1033, 2607.7425pt x 1065.9825pt>
 File: images/ct_diag_line.png Graphic file (type png)
 <use images/ct_diag_line.png>
-Package pdftex.def Info: images/ct_diag_line.png  used on input line 563.
+Package pdftex.def Info: images/ct_diag_line.png  used on input line 561.
 (pdftex.def)             Requested size: 382.68953pt x 156.4259pt.
 
 Underfull \vbox (badness 4036) has occurred while \output is active []
 
-<images/ct_screened_line.png, id=1064, 2785.40625pt x 1540.75626pt>
+<images/ct_screened_line.png, id=1034, 2785.40625pt x 1540.75626pt>
 File: images/ct_screened_line.png Graphic file (type png)
 <use images/ct_screened_line.png>
-Package pdftex.def Info: images/ct_screened_line.png  used on input line 577.
+Package pdftex.def Info: images/ct_screened_line.png  used on input line 575.
 (pdftex.def)             Requested size: 378.86473pt x 209.56828pt.
-<images/chlamydia_screen_yp_rag_bar.png, id=1065, 2132.96875pt x 1065.9825pt>
+<images/chlamydia_screen_yp_rag_bar.png, id=1035, 2132.96875pt x 1065.9825pt>
 File: images/chlamydia_screen_yp_rag_bar.png Graphic file (type png)
 <use images/chlamydia_screen_yp_rag_bar.png>
-Package pdftex.def Info: images/chlamydia_screen_yp_rag_bar.png  used on input line 582.
+Package pdftex.def Info: images/chlamydia_screen_yp_rag_bar.png  used on input line 580.
 (pdftex.def)             Requested size: 378.86473pt x 189.33115pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [34 <./images/abortions_lt_10wks_line.png> <./images/repeat_abortions_line.png> <./images/ct_diag_line.png>]
+ [33 <./images/abortions_lt_10wks_line.png> <./images/repeat_abortions_line.png> <./images/ct_diag_line.png>]
 Overfull \vbox (11.85156pt too high) has occurred while \output is active []
 
-<images/65over_vaccine_flu.png, id=1080, 2785.40625pt x 1540.75626pt>
+<images/65over_vaccine_flu.png, id=1050, 2785.40625pt x 1540.75626pt>
 File: images/65over_vaccine_flu.png Graphic file (type png)
 <use images/65over_vaccine_flu.png>
-Package pdftex.def Info: images/65over_vaccine_flu.png  used on input line 632.
+Package pdftex.def Info: images/65over_vaccine_flu.png  used on input line 630.
 (pdftex.def)             Requested size: 382.68953pt x 211.68419pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [35 <./images/ct_screened_line.png> <./images/chlamydia_screen_yp_rag_bar.png> <./images/65over_vaccine_flu.png>]
-<images/aaa_rag_bar.png, id=1095, 2132.96875pt x 1065.9825pt>
+ [34 <./images/ct_screened_line.png> <./images/chlamydia_screen_yp_rag_bar.png> <./images/65over_vaccine_flu.png>]
+<images/aaa_rag_bar.png, id=1065, 2132.96875pt x 1065.9825pt>
 File: images/aaa_rag_bar.png Graphic file (type png)
 <use images/aaa_rag_bar.png>
-Package pdftex.def Info: images/aaa_rag_bar.png  used on input line 653.
+Package pdftex.def Info: images/aaa_rag_bar.png  used on input line 651.
 (pdftex.def)             Requested size: 382.68953pt x 191.25047pt.
-<images/cervical_cancer_rag_bar.png, id=1099, 2132.96875pt x 1065.9825pt>
+<images/cervical_cancer_rag_bar.png, id=1069, 2132.96875pt x 1065.9825pt>
 File: images/cervical_cancer_rag_bar.png Graphic file (type png)
 <use images/cervical_cancer_rag_bar.png>
-Package pdftex.def Info: images/cervical_cancer_rag_bar.png  used on input line 674.
+Package pdftex.def Info: images/cervical_cancer_rag_bar.png  used on input line 672.
 (pdftex.def)             Requested size: 252.211pt x 126.04184pt.
-<images/breast_cancer_rag_bar.png, id=1100, 2132.96875pt x 1065.9825pt>
+<images/breast_cancer_rag_bar.png, id=1070, 2132.96875pt x 1065.9825pt>
 File: images/breast_cancer_rag_bar.png Graphic file (type png)
 <use images/breast_cancer_rag_bar.png>
-Package pdftex.def Info: images/breast_cancer_rag_bar.png  used on input line 680.
+Package pdftex.def Info: images/breast_cancer_rag_bar.png  used on input line 678.
 (pdftex.def)             Requested size: 252.211pt x 126.04184pt.
-<images/bowel_cancer_rag_bar.png, id=1101, 2132.96875pt x 1065.9825pt>
+<images/bowel_cancer_rag_bar.png, id=1071, 2132.96875pt x 1065.9825pt>
 File: images/bowel_cancer_rag_bar.png Graphic file (type png)
 <use images/bowel_cancer_rag_bar.png>
-Package pdftex.def Info: images/bowel_cancer_rag_bar.png  used on input line 686.
+Package pdftex.def Info: images/bowel_cancer_rag_bar.png  used on input line 684.
 (pdftex.def)             Requested size: 252.211pt x 126.04184pt.
-<images/cervical_cancer_screening.png, id=1102, 2785.40625pt x 1540.75626pt>
+<images/cervical_cancer_screening.png, id=1072, 2785.40625pt x 1540.75626pt>
 File: images/cervical_cancer_screening.png Graphic file (type png)
 <use images/cervical_cancer_screening.png>
-Package pdftex.def Info: images/cervical_cancer_screening.png  used on input line 692.
+Package pdftex.def Info: images/cervical_cancer_screening.png  used on input line 690.
 (pdftex.def)             Requested size: 252.211pt x 139.50844pt.
-<images/breast_cancer_screening.png, id=1103, 2785.40625pt x 1540.75626pt>
+<images/breast_cancer_screening.png, id=1073, 2785.40625pt x 1540.75626pt>
 File: images/breast_cancer_screening.png Graphic file (type png)
 <use images/breast_cancer_screening.png>
-Package pdftex.def Info: images/breast_cancer_screening.png  used on input line 698.
+Package pdftex.def Info: images/breast_cancer_screening.png  used on input line 696.
 (pdftex.def)             Requested size: 252.211pt x 139.50844pt.
-<images/bowel_cancer_screening.png, id=1104, 2785.40625pt x 1540.75626pt>
+<images/bowel_cancer_screening.png, id=1074, 2785.40625pt x 1540.75626pt>
 File: images/bowel_cancer_screening.png Graphic file (type png)
 <use images/bowel_cancer_screening.png>
-Package pdftex.def Info: images/bowel_cancer_screening.png  used on input line 704.
+Package pdftex.def Info: images/bowel_cancer_screening.png  used on input line 702.
 (pdftex.def)             Requested size: 252.211pt x 139.50844pt.
- [36 <./images/aaa_rag_bar.png>] [37 <./images/cervical_cancer_rag_bar.png> <./images/breast_cancer_rag_bar.png> <./images/bowel_cancer_rag_bar.png> <./images/cervical_cancer_screening.png> <./images/breast_cancer_screening.png> <./images/bowel_cancer_screening.png>] [38
+ [35 <./images/aaa_rag_bar.png>] [36 <./images/cervical_cancer_rag_bar.png> <./images/breast_cancer_rag_bar.png> <./images/bowel_cancer_rag_bar.png> <./images/cervical_cancer_screening.png> <./images/breast_cancer_screening.png> <./images/bowel_cancer_screening.png>] [37
 
 ]
-<images/low_satisfaction_line.png, id=1145, 2785.40625pt x 1540.75626pt>
+<images/low_satisfaction_line.png, id=1115, 2785.40625pt x 1540.75626pt>
 File: images/low_satisfaction_line.png Graphic file (type png)
 <use images/low_satisfaction_line.png>
-Package pdftex.def Info: images/low_satisfaction_line.png  used on input line 832.
+Package pdftex.def Info: images/low_satisfaction_line.png  used on input line 830.
 (pdftex.def)             Requested size: 378.30447pt x 209.23915pt.
-<images/low_worthwhile_line.png, id=1146, 2785.40625pt x 1540.75626pt>
+<images/low_worthwhile_line.png, id=1116, 2785.40625pt x 1540.75626pt>
 File: images/low_worthwhile_line.png Graphic file (type png)
 <use images/low_worthwhile_line.png>
-Package pdftex.def Info: images/low_worthwhile_line.png  used on input line 837.
+Package pdftex.def Info: images/low_worthwhile_line.png  used on input line 835.
 (pdftex.def)             Requested size: 378.30447pt x 209.23915pt.
-<images/high_anxiety_line.png, id=1147, 2785.40625pt x 1540.75626pt>
+<images/high_anxiety_line.png, id=1117, 2785.40625pt x 1540.75626pt>
 File: images/high_anxiety_line.png Graphic file (type png)
 <use images/high_anxiety_line.png>
-Package pdftex.def Info: images/high_anxiety_line.png  used on input line 843.
+Package pdftex.def Info: images/high_anxiety_line.png  used on input line 841.
 (pdftex.def)             Requested size: 378.30447pt x 209.23915pt.
-<images/low_happiness_line.png, id=1148, 2785.40625pt x 1540.75626pt>
+<images/low_happiness_line.png, id=1118, 2785.40625pt x 1540.75626pt>
 File: images/low_happiness_line.png Graphic file (type png)
 <use images/low_happiness_line.png>
-Package pdftex.def Info: images/low_happiness_line.png  used on input line 848.
+Package pdftex.def Info: images/low_happiness_line.png  used on input line 846.
 (pdftex.def)             Requested size: 378.30447pt x 209.23915pt.
 
 
-LaTeX Warning: Float too large for page by 16.96625pt on input line 850.
+LaTeX Warning: Float too large for page by 16.96625pt on input line 848.
 
-[39
+[38
 
-] [40 <./images/low_satisfaction_line.png> <./images/low_worthwhile_line.png> <./images/high_anxiety_line.png> <./images/low_happiness_line.png>]
+] [39 <./images/low_satisfaction_line.png> <./images/low_worthwhile_line.png> <./images/high_anxiety_line.png> <./images/low_happiness_line.png>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [41
+ [40
 
 
 ]
-<images/u75_cvd_line_3y.png, id=1176, 2132.96875pt x 1065.9825pt>
+<images/u75_cvd_line_3y.png, id=1145, 2132.96875pt x 1065.9825pt>
 File: images/u75_cvd_line_3y.png Graphic file (type png)
 <use images/u75_cvd_line_3y.png>
-Package pdftex.def Info: images/u75_cvd_line_3y.png  used on input line 919.
+Package pdftex.def Info: images/u75_cvd_line_3y.png  used on input line 917.
 (pdftex.def)             Requested size: 363.55388pt x 181.68633pt.
-<images/u75_cancer_line_3y.png, id=1178, 2132.96875pt x 1185.42876pt>
+<images/u75_cancer_line_3y.png, id=1147, 2132.96875pt x 1185.42876pt>
 File: images/u75_cancer_line_3y.png Graphic file (type png)
 <use images/u75_cancer_line_3y.png>
-Package pdftex.def Info: images/u75_cancer_line_3y.png  used on input line 928.
+Package pdftex.def Info: images/u75_cancer_line_3y.png  used on input line 926.
 (pdftex.def)             Requested size: 363.55388pt x 202.04477pt.
-<images/u75_liver_line_3y.png, id=1180, 2132.96875pt x 1065.9825pt>
+<images/u75_liver_line_3y.png, id=1149, 2132.96875pt x 1065.9825pt>
 File: images/u75_liver_line_3y.png Graphic file (type png)
 <use images/u75_liver_line_3y.png>
-Package pdftex.def Info: images/u75_liver_line_3y.png  used on input line 937.
+Package pdftex.def Info: images/u75_liver_line_3y.png  used on input line 935.
 (pdftex.def)             Requested size: 363.55388pt x 181.68633pt.
-<images/u75_respiratory_line_3y.png, id=1182, 2132.96875pt x 1065.9825pt>
+<images/u75_respiratory_line_3y.png, id=1151, 2132.96875pt x 1065.9825pt>
 File: images/u75_respiratory_line_3y.png Graphic file (type png)
 <use images/u75_respiratory_line_3y.png>
-Package pdftex.def Info: images/u75_respiratory_line_3y.png  used on input line 946.
+Package pdftex.def Info: images/u75_respiratory_line_3y.png  used on input line 944.
 (pdftex.def)             Requested size: 363.55388pt x 181.68633pt.
- [42 <./images/u75_cvd_line_3y.png> <./images/u75_cancer_line_3y.png>] [43
+ [41 <./images/u75_cvd_line_3y.png> <./images/u75_cancer_line_3y.png>] [42
 
  <./images/u75_liver_line_3y.png> <./images/u75_respiratory_line_3y.png>]
-<images/suicide_line.png, id=1210, 2785.40625pt x 1540.75626pt>
+<images/suicide_line.png, id=1179, 2785.40625pt x 1540.75626pt>
 File: images/suicide_line.png Graphic file (type png)
 <use images/suicide_line.png>
-Package pdftex.def Info: images/suicide_line.png  used on input line 960.
+Package pdftex.def Info: images/suicide_line.png  used on input line 958.
 (pdftex.def)             Requested size: 382.68953pt x 211.68419pt.
- [44
+ [43
 
  <./images/suicide_line.png>]
-<images/road_accidents_rag.png, id=1226, 2132.96875pt x 1303.87125pt>
+<images/road_accidents_rag.png, id=1196, 2132.96875pt x 1303.87125pt>
 File: images/road_accidents_rag.png Graphic file (type png)
 <use images/road_accidents_rag.png>
-Package pdftex.def Info: images/road_accidents_rag.png  used on input line 1028.
+Package pdftex.def Info: images/road_accidents_rag.png  used on input line 1026.
 (pdftex.def)             Requested size: 248.26175pt x 151.74257pt.
-<images/violent_offences_bar.png, id=1227, 2132.96875pt x 1303.87125pt>
+<images/violent_offences_bar.png, id=1197, 2132.96875pt x 1303.87125pt>
 File: images/violent_offences_bar.png Graphic file (type png)
 <use images/violent_offences_bar.png>
-Package pdftex.def Info: images/violent_offences_bar.png  used on input line 1033.
+Package pdftex.def Info: images/violent_offences_bar.png  used on input line 1031.
 (pdftex.def)             Requested size: 248.26175pt x 151.74257pt.
-<images/violent_offenses_line.png, id=1228, 2785.40625pt x 1540.75626pt>
+<images/violent_offenses_line.png, id=1198, 2785.40625pt x 1540.75626pt>
 File: images/violent_offenses_line.png Graphic file (type png)
 <use images/violent_offenses_line.png>
-Package pdftex.def Info: images/violent_offenses_line.png  used on input line 1038.
+Package pdftex.def Info: images/violent_offenses_line.png  used on input line 1036.
 (pdftex.def)             Requested size: 354.6612pt x 196.16757pt.
-<images/sexual_offences_line.png, id=1229, 2785.40625pt x 1540.75626pt>
+<images/sexual_offences_line.png, id=1199, 2785.40625pt x 1540.75626pt>
 File: images/sexual_offences_line.png Graphic file (type png)
 <use images/sexual_offences_line.png>
-Package pdftex.def Info: images/sexual_offences_line.png  used on input line 1043.
+Package pdftex.def Info: images/sexual_offences_line.png  used on input line 1041.
 (pdftex.def)             Requested size: 354.6612pt x 196.16757pt.
- [45
+ [44
 
-] [46 <./images/road_accidents_rag.png> <./images/violent_offences_bar.png> <./images/violent_offenses_line.png> <./images/sexual_offences_line.png>]) (./chapter4-old.tex
+] [45 <./images/road_accidents_rag.png> <./images/violent_offences_bar.png> <./images/violent_offenses_line.png> <./images/sexual_offences_line.png>]) (./chapter4-old.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-<images/over65_popn_deltas.png, id=1247, 2132.96875pt x 1065.9825pt>
+<images/over65_popn_deltas.png, id=1217, 2132.96875pt x 1065.9825pt>
 File: images/over65_popn_deltas.png Graphic file (type png)
 <use images/over65_popn_deltas.png>
 Package pdftex.def Info: images/over65_popn_deltas.png  used on input line 24.
@@ -1427,27 +1378,27 @@ Package pdftex.def Info: images/over65_popn_deltas.png  used on input line 24.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [47
+ [46
 
 
 ]
-Overfull \vbox (62.0723pt too high) has occurred while \output is active []
+Overfull \vbox (39.8268pt too high) has occurred while \output is active []
 
 LaTeX Font Info:    Font shape `T1/Inter-LF/m/it' will be
 (Font)              scaled to size 7.0pt on input line 53.
 LaTeX Font Info:    Font shape `T1/Inter-LF/m/n' will be
 (Font)              scaled to size 5.0pt on input line 53.
- [48 <./images/over65_popn_deltas.png>]
-<images/amd_line.png, id=1271, 2132.96875pt x 1065.9825pt>
+ [47 <./images/over65_popn_deltas.png>]
+<images/amd_line.png, id=1241, 2132.96875pt x 1065.9825pt>
 File: images/amd_line.png Graphic file (type png)
 <use images/amd_line.png>
 Package pdftex.def Info: images/amd_line.png  used on input line 96.
 (pdftex.def)             Requested size: 382.68953pt x 191.25047pt.
- [49 <./images/amd_line.png>]
+ [48 <./images/amd_line.png>]
 Underfull \vbox (badness 6559) has occurred while \output is active []
 
- [50]
-<images/GPRD_seg_ltc.png, id=1304, 1540.75626pt x 1540.75626pt>
+ [49]
+<images/GPRD_seg_ltc.png, id=1273, 1540.75626pt x 1540.75626pt>
 File: images/GPRD_seg_ltc.png Graphic file (type png)
 <use images/GPRD_seg_ltc.png>
 Package pdftex.def Info: images/GPRD_seg_ltc.png  used on input line 207.
@@ -1455,8 +1406,8 @@ Package pdftex.def Info: images/GPRD_seg_ltc.png  used on input line 207.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [51 <./images/GPRD_seg_ltc.png>]
-<images/04-self-care-continuum.jpeg, id=1316, 752.8125pt x 560.8453pt>
+ [50 <./images/GPRD_seg_ltc.png>]
+<images/04-self-care-continuum.jpeg, id=1286, 752.8125pt x 560.8453pt>
 File: images/04-self-care-continuum.jpeg Graphic file (type jpg)
 <use images/04-self-care-continuum.jpeg>
 Package pdftex.def Info: images/04-self-care-continuum.jpeg  used on input line 253.
@@ -1464,29 +1415,29 @@ Package pdftex.def Info: images/04-self-care-continuum.jpeg  used on input line 
 
 Underfull \vbox (badness 7777) has occurred while \output is active []
 
- [52 <./images/04-self-care-continuum.jpeg>]
-<images/GPPS_confident_LTC.png, id=1327, 1540.75626pt x 1540.75626pt>
+ [51 <./images/04-self-care-continuum.jpeg>]
+<images/GPPS_confident_LTC.png, id=1297, 1540.75626pt x 1540.75626pt>
 File: images/GPPS_confident_LTC.png Graphic file (type png)
 <use images/GPPS_confident_LTC.png>
 Package pdftex.def Info: images/GPPS_confident_LTC.png  used on input line 270.
 (pdftex.def)             Requested size: 382.68953pt x 382.67255pt.
-<images/GPPS_support.png, id=1328, 1540.75626pt x 1540.75626pt>
+<images/GPPS_support.png, id=1298, 1540.75626pt x 1540.75626pt>
 File: images/GPPS_support.png Graphic file (type png)
 <use images/GPPS_support.png>
 Package pdftex.def Info: images/GPPS_support.png  used on input line 276.
 (pdftex.def)             Requested size: 382.68953pt x 382.67255pt.
- [53 <./images/GPPS_confident_LTC.png>]
-<images/new_sc_requests_18_to_64.png, id=1341, 1540.75626pt x 769.87625pt>
+ [52 <./images/GPPS_confident_LTC.png>]
+<images/new_sc_requests_18_to_64.png, id=1311, 1540.75626pt x 769.87625pt>
 File: images/new_sc_requests_18_to_64.png Graphic file (type png)
 <use images/new_sc_requests_18_to_64.png>
 Package pdftex.def Info: images/new_sc_requests_18_to_64.png  used on input line 308.
 (pdftex.def)             Requested size: 386.19359pt x 192.96198pt.
-<images/new_sc_requests_65_plus.png, id=1342, 1540.75626pt x 769.87625pt>
+<images/new_sc_requests_65_plus.png, id=1312, 1540.75626pt x 769.87625pt>
 File: images/new_sc_requests_65_plus.png Graphic file (type png)
 <use images/new_sc_requests_65_plus.png>
 Package pdftex.def Info: images/new_sc_requests_65_plus.png  used on input line 314.
 (pdftex.def)             Requested size: 386.19359pt x 192.96198pt.
-<images/new_sc_requests_line.png, id=1343, 1896.08376pt x 1065.9825pt>
+<images/new_sc_requests_line.png, id=1313, 1896.08376pt x 1065.9825pt>
 File: images/new_sc_requests_line.png Graphic file (type png)
 <use images/new_sc_requests_line.png>
 Package pdftex.def Info: images/new_sc_requests_line.png  used on input line 320.
@@ -1495,17 +1446,17 @@ Package pdftex.def Info: images/new_sc_requests_line.png  used on input line 320
 
 LaTeX Warning: Float too large for page by 5.71738pt on input line 324.
 
-<images/sc_requests_18_to_64.png, id=1344, 2785.40625pt x 1540.75626pt>
+<images/sc_requests_18_to_64.png, id=1314, 2785.40625pt x 1540.75626pt>
 File: images/sc_requests_18_to_64.png Graphic file (type png)
 <use images/sc_requests_18_to_64.png>
 Package pdftex.def Info: images/sc_requests_18_to_64.png  used on input line 332.
 (pdftex.def)             Requested size: 386.19359pt x 213.61201pt.
-<images/sc_requests_over_65.png, id=1345, 2785.40625pt x 1540.75626pt>
+<images/sc_requests_over_65.png, id=1315, 2785.40625pt x 1540.75626pt>
 File: images/sc_requests_over_65.png Graphic file (type png)
 <use images/sc_requests_over_65.png>
 Package pdftex.def Info: images/sc_requests_over_65.png  used on input line 338.
 (pdftex.def)             Requested size: 386.19359pt x 213.61201pt.
-<images/perm_res_adm_time.png, id=1346, 2132.96875pt x 1065.9825pt>
+<images/perm_res_adm_time.png, id=1316, 2132.96875pt x 1065.9825pt>
 File: images/perm_res_adm_time.png Graphic file (type png)
 <use images/perm_res_adm_time.png>
 Package pdftex.def Info: images/perm_res_adm_time.png  used on input line 344.
@@ -1513,45 +1464,52 @@ Package pdftex.def Info: images/perm_res_adm_time.png  used on input line 344.
 
 LaTeX Warning: Float too large for page by 36.87946pt on input line 348.
 
-[54 <./images/GPPS_support.png>] [55 <./images/new_sc_requests_18_to_64.png> <./images/new_sc_requests_65_plus.png> <./images/new_sc_requests_line.png>] [56 <./images/sc_requests_18_to_64.png> <./images/sc_requests_over_65.png> <./images/perm_res_adm_time.png>] [57]
-<images/underlying_cause_of_death.png, id=1390, 1206.5075pt x 1037.8775pt>
+[53 <./images/GPPS_support.png>] [54 <./images/new_sc_requests_18_to_64.png> <./images/new_sc_requests_65_plus.png> <./images/new_sc_requests_line.png>] [55 <./images/sc_requests_18_to_64.png> <./images/sc_requests_over_65.png> <./images/perm_res_adm_time.png>]
+File: images/65over_vaccine_flu.png Graphic file (type png)
+<use images/65over_vaccine_flu.png>
+Package pdftex.def Info: images/65over_vaccine_flu.png  used on input line 457.
+(pdftex.def)             Requested size: 382.68953pt x 211.68419pt.
+ [56]
+<images/underlying_cause_of_death.png, id=1368, 1303.87125pt x 1303.87125pt>
 File: images/underlying_cause_of_death.png Graphic file (type png)
 <use images/underlying_cause_of_death.png>
-Package pdftex.def Info: images/underlying_cause_of_death.png  used on input line 563.
-(pdftex.def)             Requested size: 382.68953pt x 329.1978pt.
- [58 <./images/underlying_cause_of_death.png>]
-<images/diupr_rag_bar.png, id=1399, 2132.96875pt x 2132.96875pt>
+Package pdftex.def Info: images/underlying_cause_of_death.png  used on input line 570.
+(pdftex.def)             Requested size: 382.68953pt x 382.68893pt.
+ [57 <./images/underlying_cause_of_death.png>]
+<images/diupr_rag_bar.png, id=1378, 2132.96875pt x 1065.9825pt>
 File: images/diupr_rag_bar.png Graphic file (type png)
 <use images/diupr_rag_bar.png>
-Package pdftex.def Info: images/diupr_rag_bar.png  used on input line 575.
-(pdftex.def)             Requested size: 382.68953pt x 382.68105pt.
- [59]
-<images/ewd_control_chart.png, id=1414, 2132.96875pt x 1065.9825pt>
+Package pdftex.def Info: images/diupr_rag_bar.png  used on input line 582.
+(pdftex.def)             Requested size: 382.68953pt x 191.25047pt.
+ [58 <./images/diupr_rag_bar.png>]
+<images/ewd_control_chart.png, id=1390, 2132.96875pt x 1065.9825pt>
 File: images/ewd_control_chart.png Graphic file (type png)
 <use images/ewd_control_chart.png>
-Package pdftex.def Info: images/ewd_control_chart.png  used on input line 621.
+Package pdftex.def Info: images/ewd_control_chart.png  used on input line 626.
 (pdftex.def)             Requested size: 382.68953pt x 191.25047pt.
 ) 
 AED: lastpage setting LastPage
-[60 <./images/diupr_rag_bar.png> <./images/ewd_control_chart.png>] (./jsna_summary.aux)
+[59
+
+ <./images/ewd_control_chart.png>] (./jsna_summary.aux)
 Package rerunfilecheck Info: File `jsna_summary.out' has not changed.
-(rerunfilecheck)             Checksum: 9215E49C623E2785314FFB07F78E61C1;18264.
+(rerunfilecheck)             Checksum: DBC42ABFE52A861F9AA1C0BF99BE5FCD;17535.
  ) 
 Here is how much of TeX's memory you used:
- 32618 strings out of 478287
- 630474 string characters out of 5846750
- 1059942 words of memory out of 5000000
- 49121 multiletter control sequences out of 15000+600000
- 647851 words of font info for 501 fonts, out of 8000000 for 9000
+ 32543 strings out of 478287
+ 628799 string characters out of 5846750
+ 1059253 words of memory out of 5000000
+ 49049 multiletter control sequences out of 15000+600000
+ 648557 words of font info for 504 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 99i,14n,131p,1613b,1159s stack positions out of 5000i,500n,10000p,200000b,80000s
-pdfTeX warning (dest): name{Hfootnote.89} has been referenced but does not exist, replaced by a fixed one
+ 99i,14n,131p,1613b,664s stack positions out of 5000i,500n,10000p,200000b,80000s
+pdfTeX warning (dest): name{Hfootnote.90} has been referenced but does not exist, replaced by a fixed one
 
 {/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/inter/a_bal5qf.enc}{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/inter/a_zasxrl.enc}</usr/local/texlive/2021/texmf-dist/fonts/type1/public/inter/Inter-Bold.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/inter/Inter-Italic.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/inter/Inter-Regular.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sftt0800.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sftt1000.pfb>
-Output written on jsna_summary.pdf (60 pages, 6091979 bytes).
+Output written on jsna_summary.pdf (59 pages, 5686945 bytes).
 PDF statistics:
- 1553 PDF objects out of 1728 (max. 8388607)
- 1244 compressed objects within 13 object streams
- 399 named destinations out of 1000 (max. 500000)
- 91675 words of extra memory for PDF output out of 106986 (max. 10000000)
+ 1528 PDF objects out of 1728 (max. 8388607)
+ 1222 compressed objects within 13 object streams
+ 394 named destinations out of 1000 (max. 500000)
+ 91659 words of extra memory for PDF output out of 106986 (max. 10000000)
 

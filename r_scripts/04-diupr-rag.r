@@ -91,4 +91,4 @@ diupr_rag <- ggplot(
 
 print(diupr_rag)
 
-ggsave(diupr_rag, filename = 'diupr_rag_bar.png', path = save_place, bg = 'transparent', units = 'mm', width = 180, height = 180)
+ggsave(diupr_rag, filename = 'diupr_rag_bar.png', path = save_place, bg = 'transparent', units = 'mm', width = 180, height = 90)

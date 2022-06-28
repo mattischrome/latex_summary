@@ -19,20 +19,20 @@ cause_of_death_wsx <- tibble(
 cause_of_death_wsx$cause <- factor(cause_of_death_wsx$cause, levels = rev(conditions))
 
 cause_of_death_wsx_plot <- ggplot(data = cause_of_death_wsx,
-                                  mapping = aes(y=cause, x=number, fill = location))+
-  geom_col()+
+                                  mapping = aes(y=cause, x=number))+
+  geom_col(fill="#0b53c1")+
   geom_richtext(aes(label = number),
                 color = "black",
                 fill = "white",
                 label.color = NA,
                 nudge_x = 2,
-                size = rel(4),
+                size = rel(2),
                 na.rm = TRUE,
                 hjust = 0,
                 vjust = 0.5) +
   theme_wsj()+
   scale_fill_ft()+
-  expand_limits(x=c(0,300))+
+  expand_limits(x=c(0,3000))+
   theme(legend.position = "none",
         legend.title = element_blank(),
         legend.text = element_text(size = rel(1)),
@@ -43,9 +43,11 @@ cause_of_death_wsx_plot <- ggplot(data = cause_of_death_wsx,
         plot.caption = element_text(family = "sans",
                                     size = rel(0.6),
                                     hjust = 0),
-        axis.text.x = element_text(family = "sans"),
+        axis.text = element_text(family = "sans", size = rel(0.3)),
         rect = element_rect(fill = "white",
                             linetype = 0,
                             colour = NA))
 
 print(cause_of_death_wsx_plot)
+
+ggsave(paste0(save_place,"underlying_cause_of_death.png"),cause_of_death_wsx_plot,width=110,height=110,units="mm")

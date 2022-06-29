@@ -3,104 +3,104 @@
 \contentsline {paragraph}{JSNA Website}{2}{paragraph*.2}%
 \contentsline {paragraph}{Posters available}{2}{paragraph*.3}%
 \contentsline {paragraph}{West Sussex Life}{2}{paragraph*.4}%
-\contentsline {section}{\numberline {1}Introduction}{3}{section.1}%
-\contentsline {subsection}{\numberline {1.1}What is a JSNA?}{3}{subsection.1.1}%
-\contentsline {paragraph}{Scale, Direction and Significance}{3}{paragraph*.5}%
-\contentsline {paragraph}{CIPFA Neighbours}{3}{paragraph*.6}%
+\contentsline {section}{\numberline {1}Introduction}{2}{section.1}%
+\contentsline {subsection}{\numberline {1.1}What is a JSNA?}{2}{subsection.1.1}%
+\contentsline {paragraph}{Scale, Direction and Significance}{2}{paragraph*.5}%
 \contentsline {subsection}{\numberline {1.2}West Sussex Health and Wellbeing Strategy Priorities 2019-2024}{3}{subsection.1.2}%
 \contentsline {subsubsection}{\numberline {1.2.1}Start Well Priorities}{3}{subsubsection.1.2.1}%
 \contentsline {subsubsection}{\numberline {1.2.2}Live Well Priorities}{3}{subsubsection.1.2.2}%
-\contentsline {subsubsection}{\numberline {1.2.3}Age Well Priorities}{4}{subsubsection.1.2.3}%
-\contentsline {subsection}{\numberline {1.3}Impact of Covid-19 on Public Health Outcomes}{4}{subsection.1.3}%
-\contentsline {subsection}{\numberline {1.4}West Sussex in Outline}{4}{subsection.1.4}%
-\contentsline {subsubsection}{\numberline {1.4.1}West Sussex as Home}{4}{subsubsection.1.4.1}%
-\contentsline {subsection}{\numberline {1.5}Protected characteristics}{6}{subsection.1.5}%
+\contentsline {subsubsection}{\numberline {1.2.3}Age Well Priorities}{3}{subsubsection.1.2.3}%
+\contentsline {subsection}{\numberline {1.3}Impact of Covid-19 on Public Health Outcomes}{3}{subsection.1.3}%
+\contentsline {subsection}{\numberline {1.4}West Sussex in Outline}{3}{subsection.1.4}%
+\contentsline {subsubsection}{\numberline {1.4.1}West Sussex as Home}{5}{subsubsection.1.4.1}%
+\contentsline {subsection}{\numberline {1.5}Protected characteristics}{5}{subsection.1.5}%
 \contentsline {subsubsection}{\numberline {1.5.1}Other vulnerable groups in the population}{7}{subsubsection.1.5.1}%
 \contentsline {subsection}{\numberline {1.6}Population estimates}{7}{subsection.1.6}%
 \contentsline {subsection}{\numberline {1.7}Natural Assets}{7}{subsection.1.7}%
-\contentsline {subsubsection}{\numberline {1.7.1}Healthy Environments -- The Access to Health and Hazards Index}{9}{subsubsection.1.7.1}%
+\contentsline {subsubsection}{\numberline {1.7.1}Healthy Environments -- The Access to Health and Hazards Index}{8}{subsubsection.1.7.1}%
 \contentsline {subsection}{\numberline {1.8}Poverty}{9}{subsection.1.8}%
 \contentsline {subsubsection}{\numberline {1.8.1}Poverty and Poor Health}{9}{subsubsection.1.8.1}%
 \contentsline {subsubsection}{\numberline {1.8.2}Income Deprivation in West Sussex}{9}{subsubsection.1.8.2}%
 \contentsline {subsection}{\numberline {1.9}Inequality in life expectancy}{10}{subsection.1.9}%
-\contentsline {section}{\numberline {2}Starting Well}{12}{section.2}%
-\contentsline {subsection}{\numberline {2.1}Summary}{12}{subsection.2.1}%
+\contentsline {section}{\numberline {2}Starting Well}{11}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Summary}{11}{subsection.2.1}%
 \contentsline {subsection}{\numberline {2.2}Infant and Maternal Health}{12}{subsection.2.2}%
 \contentsline {subsubsection}{\numberline {2.2.1}Infant and Maternal Health}{12}{subsubsection.2.2.1}%
 \contentsline {subsubsection}{\numberline {2.2.2}Maternal Mental Health}{13}{subsubsection.2.2.2}%
 \contentsline {subsection}{\numberline {2.3}West Sussex Childhood Vaccine and Immunisation Coverage Rates}{13}{subsection.2.3}%
 \contentsline {subsection}{\numberline {2.4}Hospital admissions}{13}{subsection.2.4}%
-\contentsline {paragraph}{Emergency admissions}{13}{paragraph*.14}%
-\contentsline {paragraph}{Admissions to hospital - 0-19 year olds}{14}{paragraph*.15}%
-\contentsline {subsection}{\numberline {2.5}Disability through the life course}{14}{subsection.2.5}%
-\contentsline {paragraph}{Overall Disability Assumption}{14}{paragraph*.16}%
-\contentsline {paragraph}{FRS Type of Impairment}{14}{paragraph*.18}%
-\contentsline {subsection}{\numberline {2.6}Mental Health and Wellbeing}{15}{subsection.2.6}%
-\contentsline {paragraph}{Wave 2 follow up to the 2017 survey}{16}{paragraph*.21}%
-\contentsline {paragraph}{Estimated prevalence by CAMHS "Tier" in West Sussex}{17}{paragraph*.22}%
+\contentsline {paragraph}{Emergency admissions}{13}{paragraph*.13}%
+\contentsline {paragraph}{Admissions to hospital - 0-19 year olds}{13}{paragraph*.14}%
+\contentsline {subsection}{\numberline {2.5}Disability through the life course}{13}{subsection.2.5}%
+\contentsline {paragraph}{Overall Disability Assumption}{13}{paragraph*.15}%
+\contentsline {paragraph}{FRS Type of Impairment}{14}{paragraph*.17}%
+\contentsline {subsection}{\numberline {2.6}Mental Health and Wellbeing}{14}{subsection.2.6}%
+\contentsline {paragraph}{Wave 2 follow up to the 2017 survey}{16}{paragraph*.20}%
+\contentsline {paragraph}{Estimated prevalence by CAMHS "Tier" in West Sussex}{16}{paragraph*.21}%
 \contentsline {subsection}{\numberline {2.7}Autism}{17}{subsection.2.7}%
-\contentsline {paragraph}{Statement from the West Sussex Autism Partnership Board}{17}{paragraph*.24}%
-\contentsline {subsection}{\numberline {2.8}Health Related Behaviours and Healthy Weight}{18}{subsection.2.8}%
-\contentsline {paragraph}{Health-related behaviour of young people}{18}{paragraph*.25}%
+\contentsline {paragraph}{Statement from the West Sussex Autism Partnership Board}{17}{paragraph*.23}%
+\contentsline {subsection}{\numberline {2.8}Health Related Behaviours and Healthy Weight}{17}{subsection.2.8}%
+\contentsline {paragraph}{Health-related behaviour of young people}{17}{paragraph*.24}%
 \contentsline {subsubsection}{\numberline {2.8.1}Healthy Weight - Reception and Year 6 Pupils}{18}{subsubsection.2.8.1}%
 \contentsline {subsubsection}{\numberline {2.8.2}Education}{18}{subsubsection.2.8.2}%
-\contentsline {paragraph}{Early Years Provision, Education, NEET \& Progression to Higher Education}{18}{paragraph*.26}%
-\contentsline {paragraph}{Special Educational Needs}{18}{paragraph*.27}%
-\contentsline {paragraph}{16-17 year-olds not in education, employment or training (NEET)}{19}{paragraph*.28}%
-\contentsline {paragraph}{School readiness}{19}{paragraph*.29}%
-\contentsline {paragraph}{Progression to Higher Education (HE)}{19}{paragraph*.31}%
+\contentsline {paragraph}{Early Years Provision, Education, NEET \& Progression to Higher Education}{18}{paragraph*.25}%
+\contentsline {paragraph}{Special Educational Needs}{18}{paragraph*.26}%
+\contentsline {paragraph}{16-17 year-olds not in education, employment or training (NEET)}{18}{paragraph*.27}%
+\contentsline {paragraph}{School readiness}{18}{paragraph*.28}%
+\contentsline {paragraph}{Progression to Higher Education (HE)}{19}{paragraph*.30}%
 \contentsline {subsubsection}{\numberline {2.8.3}Social Care and Community Safety}{19}{subsubsection.2.8.3}%
-\contentsline {paragraph}{Social Care and Criminal Justice}{19}{paragraph*.32}%
-\contentsline {paragraph}{Outcomes for Children Looked After and Children Leaving Care}{19}{paragraph*.33}%
-\contentsline {paragraph}{Criminal Justice}{20}{paragraph*.34}%
-\contentsline {paragraph}{Children in Need (CiN)}{20}{paragraph*.35}%
-\contentsline {paragraph}{Children subject to a Child Protection Plan (CPP)}{20}{paragraph*.36}%
+\contentsline {paragraph}{Social Care and Criminal Justice}{19}{paragraph*.31}%
+\contentsline {paragraph}{Outcomes for Children Looked After and Children Leaving Care}{19}{paragraph*.32}%
+\contentsline {paragraph}{Criminal Justice}{19}{paragraph*.33}%
+\contentsline {paragraph}{Children in Need (CiN)}{19}{paragraph*.34}%
+\contentsline {paragraph}{Children subject to a Child Protection Plan (CPP)}{20}{paragraph*.35}%
 \contentsline {subsubsection}{\numberline {2.8.4}Transition to Adult}{20}{subsubsection.2.8.4}%
-\contentsline {section}{\numberline {3}Living Well}{21}{section.3}%
-\contentsline {subsection}{\numberline {3.1}Summary}{21}{subsection.3.1}%
+\contentsline {section}{\numberline {3}Living Well}{20}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Summary}{20}{subsection.3.1}%
 \contentsline {subsection}{\numberline {3.2}Life expectancy}{21}{subsection.3.2}%
 \contentsline {subsubsection}{\numberline {3.2.1}Healthy Life Expectancy at birth}{21}{subsubsection.3.2.1}%
-\contentsline {paragraph}{Female Life Expectancy - Changes between 2011-13 and 2017-19}{22}{paragraph*.38}%
-\contentsline {subsection}{\numberline {3.3}Years of Potential Life Lost - West Sussex Primary Care Networks}{23}{subsection.3.3}%
+\contentsline {paragraph}{Female Life Expectancy - Changes between 2011-13 and 2017-19}{22}{paragraph*.37}%
+\contentsline {subsection}{\numberline {3.3}Years of Potential Life Lost - West Sussex Primary Care Networks}{22}{subsection.3.3}%
 \contentsline {subsection}{\numberline {3.4}Employment and Unemployment}{23}{subsection.3.4}%
-\contentsline {paragraph}{Economic Inactivity}{23}{paragraph*.41}%
-\contentsline {paragraph}{Long-term claimants of Jobseeker's Allowance}{23}{paragraph*.42}%
-\contentsline {paragraph}{Out-Of-Work Benefits}{23}{paragraph*.44}%
-\contentsline {paragraph}{Employment Rate Gap of Vulnerable Groups}{24}{paragraph*.45}%
-\contentsline {paragraph}{Employment Deprived}{25}{paragraph*.47}%
+\contentsline {paragraph}{Economic Inactivity}{23}{paragraph*.40}%
+\contentsline {paragraph}{Long-term claimants of Jobseeker's Allowance}{23}{paragraph*.41}%
+\contentsline {paragraph}{Out-Of-Work Benefits}{23}{paragraph*.43}%
+\contentsline {paragraph}{Employment Rate Gap of Vulnerable Groups}{24}{paragraph*.44}%
+\contentsline {paragraph}{Employment Deprived}{24}{paragraph*.46}%
 \contentsline {subsubsection}{\numberline {3.4.1}Health and Social Care Workforce - Primary Care}{25}{subsubsection.3.4.1}%
-\contentsline {paragraph}{Primary Care Staffing}{25}{paragraph*.49}%
-\contentsline {subsection}{\numberline {3.5}Health and Social Care Workforce - Social Care / Care Benefits}{26}{subsection.3.5}%
-\contentsline {paragraph}{Attendance Allowance - May 2019 (Rounded to nearest 10)}{26}{paragraph*.53}%
-\contentsline {paragraph}{Carers Allowance - November 2021 (Rounded to nearest 10)}{26}{paragraph*.55}%
+\contentsline {paragraph}{Primary Care Staffing}{25}{paragraph*.48}%
+\contentsline {subsection}{\numberline {3.5}Health and Social Care Workforce - Social Care / Care Benefits}{25}{subsection.3.5}%
+\contentsline {paragraph}{Attendance Allowance - May 2019 (Rounded to nearest 10)}{25}{paragraph*.52}%
+\contentsline {paragraph}{Carers Allowance - November 2021 (Rounded to nearest 10)}{25}{paragraph*.54}%
 \contentsline {subsection}{\numberline {3.6}Unpaid Care}{26}{subsection.3.6}%
-\contentsline {paragraph}{Unpaid Care}{26}{paragraph*.58}%
-\contentsline {paragraph}{50 or more unpaid care hours per week}{27}{paragraph*.60}%
-\contentsline {paragraph}{How do we estimate the numbers of unpaid carers?}{27}{paragraph*.61}%
-\contentsline {subsection}{\numberline {3.7}Health Related Behaviours}{28}{subsection.3.7}%
-\contentsline {paragraph}{Lifestyle risk factors: smoking; diet; physical activity; and alcohol and other substance misuse.}{28}{paragraph*.63}%
-\contentsline {paragraph}{Smoking}{28}{paragraph*.64}%
-\contentsline {paragraph}{Physical Activity and Obesity}{28}{paragraph*.65}%
+\contentsline {paragraph}{Unpaid Care}{26}{paragraph*.57}%
+\contentsline {paragraph}{50 or more unpaid care hours per week}{26}{paragraph*.59}%
+\contentsline {paragraph}{How do we estimate the numbers of unpaid carers?}{26}{paragraph*.60}%
+\contentsline {subsection}{\numberline {3.7}Health Related Behaviours}{27}{subsection.3.7}%
+\contentsline {paragraph}{Lifestyle risk factors: smoking; diet; physical activity; and alcohol and other substance misuse.}{27}{paragraph*.62}%
+\contentsline {paragraph}{Smoking}{27}{paragraph*.63}%
+\contentsline {paragraph}{Physical Activity and Obesity}{28}{paragraph*.64}%
 \contentsline {subsection}{\numberline {3.8}Substance Misuse}{29}{subsection.3.8}%
 \contentsline {subsubsection}{\numberline {3.8.1}Tobacco}{29}{subsubsection.3.8.1}%
-\contentsline {paragraph}{West Sussex Tobacco Control Strategy 2019-2022}{29}{paragraph*.67}%
+\contentsline {paragraph}{West Sussex Tobacco Control Strategy 2019-2022}{29}{paragraph*.66}%
 \contentsline {subsubsection}{\numberline {3.8.2}Substance Misuse - Alcohol and Drugs}{29}{subsubsection.3.8.2}%
 \contentsline {subsubsection}{\numberline {3.8.3}Treatment Outcomes / Impact}{30}{subsubsection.3.8.3}%
-\contentsline {paragraph}{Alcohol-Related Hospital Admissions}{30}{paragraph*.68}%
-\contentsline {paragraph}{Other alcohol-related impacts}{30}{paragraph*.69}%
-\contentsline {paragraph}{Mortality from chronic liver disease}{30}{paragraph*.70}%
-\contentsline {paragraph}{Drug misuse}{30}{paragraph*.72}%
-\contentsline {paragraph}{Treatment Outcomes}{30}{paragraph*.73}%
-\contentsline {paragraph}{People NOT in Receipt of Treatment (2018/19)}{31}{paragraph*.74}%
-\contentsline {paragraph}{Drug Use}{31}{paragraph*.75}%
+\contentsline {paragraph}{Alcohol-Related Hospital Admissions}{30}{paragraph*.67}%
+\contentsline {paragraph}{Other alcohol-related impacts}{30}{paragraph*.68}%
+\contentsline {paragraph}{Mortality from chronic liver disease}{30}{paragraph*.69}%
+\contentsline {paragraph}{Drug misuse}{30}{paragraph*.71}%
+\contentsline {paragraph}{Treatment Outcomes}{30}{paragraph*.72}%
+\contentsline {paragraph}{People NOT in Receipt of Treatment (2018/19)}{31}{paragraph*.73}%
+\contentsline {paragraph}{Drug Use}{31}{paragraph*.74}%
 \contentsline {subsection}{\numberline {3.9}Sexual Health}{31}{subsection.3.9}%
-\contentsline {paragraph}{Key Points}{31}{paragraph*.76}%
-\contentsline {paragraph}{A focus on chlamydia}{33}{paragraph*.81}%
-\contentsline {paragraph}{Screening in 15-24 year-olds}{33}{paragraph*.83}%
-\contentsline {subsection}{\numberline {3.10}Screening}{34}{subsection.3.10}%
-\contentsline {subsubsection}{\numberline {3.10.1}Flu jabs - for at risk groups}{34}{subsubsection.3.10.1}%
-\contentsline {subsubsection}{\numberline {3.10.2}NHS Health Checks}{35}{subsubsection.3.10.2}%
+\contentsline {paragraph}{Key Points}{31}{paragraph*.75}%
+\contentsline {paragraph}{A focus on chlamydia}{33}{paragraph*.80}%
+\contentsline {paragraph}{Screening in 15-24 year-olds}{33}{paragraph*.82}%
+\contentsline {subsection}{\numberline {3.10}Screening}{33}{subsection.3.10}%
+\contentsline {subsubsection}{\numberline {3.10.1}Flu jabs - for at risk groups}{33}{subsubsection.3.10.1}%
+\contentsline {subsubsection}{\numberline {3.10.2}NHS Health Checks}{33}{subsubsection.3.10.2}%
 \contentsline {subsubsection}{\numberline {3.10.3}Non-Cancer Screening}{35}{subsubsection.3.10.3}%
+\contentsline {paragraph}{Abdominal Aortic Aneurysm screening coverage}{35}{paragraph*.85}%
 \contentsline {paragraph}{Diabetic Eye screening uptake}{35}{paragraph*.87}%
 \contentsline {subsubsection}{\numberline {3.10.4}Cancer Screening Programmes}{35}{subsubsection.3.10.4}%
 \contentsline {subsection}{\numberline {3.11}Mental Health}{37}{subsection.3.11}%
@@ -115,44 +115,44 @@
 \contentsline {paragraph}{People with a low happiness score}{38}{paragraph*.95}%
 \contentsline {subsubsection}{\numberline {3.11.5}Measuring Wellbeing}{40}{subsubsection.3.11.5}%
 \contentsline {subsection}{\numberline {3.12}Premature Mortality}{41}{subsection.3.12}%
-\contentsline {subsection}{\numberline {3.13}Suicide}{43}{subsection.3.13}%
-\contentsline {subsubsection}{\numberline {3.13.1}Demographic Information from the West Sussex Suicide Audit 2013-15}{43}{subsubsection.3.13.1}%
+\contentsline {subsection}{\numberline {3.13}Suicide}{41}{subsection.3.13}%
+\contentsline {subsubsection}{\numberline {3.13.1}Demographic Information from the West Sussex Suicide Audit 2013-15}{42}{subsubsection.3.13.1}%
 \contentsline {subsection}{\numberline {3.14}Community Safety}{43}{subsection.3.14}%
 \contentsline {subsubsection}{\numberline {3.14.1}Violent offences}{43}{subsubsection.3.14.1}%
 \contentsline {subsubsection}{\numberline {3.14.2}Sexual offences}{43}{subsubsection.3.14.2}%
-\contentsline {subsubsection}{\numberline {3.14.3}Domestic abuse}{44}{subsubsection.3.14.3}%
-\contentsline {subsubsection}{\numberline {3.14.4}Road accidents}{44}{subsubsection.3.14.4}%
-\contentsline {section}{\numberline {4}Ageing Well}{46}{section.4}%
-\contentsline {subsection}{\numberline {4.1}Summary}{46}{subsection.4.1}%
-\contentsline {subsection}{\numberline {4.2}Over 65 Population Background}{47}{subsection.4.2}%
-\contentsline {subsection}{\numberline {4.3}Long Term Health Conditions}{47}{subsection.4.3}%
-\contentsline {paragraph}{Older people with long term conditions}{47}{paragraph*.104}%
-\contentsline {paragraph}{Musculoskeletal problems (MSK)}{48}{paragraph*.105}%
-\contentsline {paragraph}{Sensory impairment}{48}{paragraph*.106}%
-\contentsline {subsection}{\numberline {4.4}Multi-morbidity estimates}{48}{subsection.4.4}%
-\contentsline {paragraph}{Multi-morbidity - Public Health England Estimates}{48}{paragraph*.108}%
-\contentsline {subsubsection}{\numberline {4.4.1}Multi-morbidity estimates by age - West Sussex}{49}{subsubsection.4.4.1}%
-\contentsline {subsection}{\numberline {4.5}Segmenting the 65+ Population}{49}{subsection.4.5}%
-\contentsline {subsubsection}{\numberline {4.5.1}Using GP Patient Register Data}{49}{subsubsection.4.5.1}%
-\contentsline {subsubsection}{\numberline {4.5.2}Estimating Care Needs in a Population}{51}{subsubsection.4.5.2}%
-\contentsline {subsection}{\numberline {4.6}Self care}{51}{subsection.4.6}%
-\contentsline {paragraph}{Confidence in managing condition(s)}{52}{paragraph*.117}%
-\contentsline {paragraph}{Enough support from local services and organisations to help manage condition(s)}{52}{paragraph*.120}%
-\contentsline {subsection}{\numberline {4.7}Social Care - Expressed Demand}{52}{subsection.4.7}%
-\contentsline {subsubsection}{\numberline {4.7.1}Need Related to Activities of Daily Living}{52}{subsubsection.4.7.1}%
-\contentsline {subsubsection}{\numberline {4.7.2}Route of Access - New Clients (Excluding Repeat Requests)}{53}{subsubsection.4.7.2}%
-\contentsline {subsubsection}{\numberline {4.7.3}Demand over time}{53}{subsubsection.4.7.3}%
-\contentsline {paragraph}{People aged 18-64 years}{53}{paragraph*.123}%
-\contentsline {paragraph}{People aged 65 years or over}{53}{paragraph*.124}%
-\contentsline {paragraph}{Permanent admissions to residential and nursing care homes per 100,000 population}{53}{paragraph*.125}%
-\contentsline {subsection}{\numberline {4.8}West Sussex Social Care}{56}{subsection.4.8}%
-\contentsline {subsubsection}{\numberline {4.8.1}ASCOF Outcomes and the Adult Social Care Users Survey 2020-21}{56}{subsubsection.4.8.1}%
-\contentsline {subsection}{\numberline {4.9}Falls and Fractures}{56}{subsection.4.9}%
-\contentsline {paragraph}{Falls People Aged 65 years or over}{56}{paragraph*.126}%
-\contentsline {paragraph}{Hip Fractures - People Aged 65 years or over}{56}{paragraph*.127}%
-\contentsline {subsubsection}{\numberline {4.9.1}Vaccination coverage in over-65s}{56}{subsubsection.4.9.1}%
-\contentsline {subsection}{\numberline {4.10}Mortality}{57}{subsection.4.10}%
-\contentsline {subsubsection}{\numberline {4.10.1}Underlying Cause of Death}{57}{subsubsection.4.10.1}%
-\contentsline {subsubsection}{\numberline {4.10.2}Place of Death}{57}{subsubsection.4.10.2}%
-\contentsline {subsubsection}{\numberline {4.10.3}Excess Winter Deaths}{58}{subsubsection.4.10.3}%
+\contentsline {subsubsection}{\numberline {3.14.3}Domestic abuse}{43}{subsubsection.3.14.3}%
+\contentsline {subsubsection}{\numberline {3.14.4}Road accidents}{43}{subsubsection.3.14.4}%
+\contentsline {section}{\numberline {4}Ageing Well}{45}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Summary}{45}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Over 65 Population Background}{46}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Long Term Health Conditions}{46}{subsection.4.3}%
+\contentsline {paragraph}{Older people with long term conditions}{46}{paragraph*.104}%
+\contentsline {paragraph}{Musculoskeletal problems (MSK)}{47}{paragraph*.105}%
+\contentsline {paragraph}{Sensory impairment}{47}{paragraph*.106}%
+\contentsline {subsection}{\numberline {4.4}Multi-morbidity estimates}{47}{subsection.4.4}%
+\contentsline {paragraph}{Multi-morbidity - Public Health England Estimates}{47}{paragraph*.108}%
+\contentsline {subsubsection}{\numberline {4.4.1}Multi-morbidity estimates by age - West Sussex}{48}{subsubsection.4.4.1}%
+\contentsline {subsection}{\numberline {4.5}Segmenting the 65+ Population}{48}{subsection.4.5}%
+\contentsline {subsubsection}{\numberline {4.5.1}Using GP Patient Register Data}{48}{subsubsection.4.5.1}%
+\contentsline {subsubsection}{\numberline {4.5.2}Estimating Care Needs in a Population}{50}{subsubsection.4.5.2}%
+\contentsline {subsection}{\numberline {4.6}Self care}{50}{subsection.4.6}%
+\contentsline {paragraph}{Confidence in managing condition(s)}{51}{paragraph*.117}%
+\contentsline {paragraph}{Enough support from local services and organisations to help manage condition(s)}{51}{paragraph*.120}%
+\contentsline {subsection}{\numberline {4.7}Social Care - Expressed Demand}{51}{subsection.4.7}%
+\contentsline {subsubsection}{\numberline {4.7.1}Need Related to Activities of Daily Living}{51}{subsubsection.4.7.1}%
+\contentsline {subsubsection}{\numberline {4.7.2}Route of Access - New Clients (Excluding Repeat Requests)}{52}{subsubsection.4.7.2}%
+\contentsline {subsubsection}{\numberline {4.7.3}Demand over time}{52}{subsubsection.4.7.3}%
+\contentsline {paragraph}{People aged 18-64 years}{52}{paragraph*.123}%
+\contentsline {paragraph}{People aged 65 years or over}{52}{paragraph*.124}%
+\contentsline {paragraph}{Permanent admissions to residential and nursing care homes per 100,000 population}{52}{paragraph*.125}%
+\contentsline {subsection}{\numberline {4.8}West Sussex Social Care}{55}{subsection.4.8}%
+\contentsline {subsubsection}{\numberline {4.8.1}ASCOF Outcomes and the Adult Social Care Users Survey 2020-21}{55}{subsubsection.4.8.1}%
+\contentsline {subsection}{\numberline {4.9}Falls and Fractures}{55}{subsection.4.9}%
+\contentsline {paragraph}{Falls People Aged 65 years or over}{55}{paragraph*.126}%
+\contentsline {paragraph}{Hip Fractures - People Aged 65 years or over}{55}{paragraph*.127}%
+\contentsline {subsubsection}{\numberline {4.9.1}Vaccination coverage in over-65s}{55}{subsubsection.4.9.1}%
+\contentsline {subsection}{\numberline {4.10}Mortality}{56}{subsection.4.10}%
+\contentsline {subsubsection}{\numberline {4.10.1}Underlying Cause of Death}{56}{subsubsection.4.10.1}%
+\contentsline {subsubsection}{\numberline {4.10.2}Place of Death}{56}{subsubsection.4.10.2}%
+\contentsline {subsubsection}{\numberline {4.10.3}Excess Winter Deaths}{57}{subsubsection.4.10.3}%
 \contentsfinish 

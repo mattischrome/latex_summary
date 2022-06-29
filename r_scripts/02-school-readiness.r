@@ -35,8 +35,9 @@ the_plot <- ggplot(
         title = element_text(family = "sans", size = rel(1)),
         rect = element_rect(fill = 'transparent', linetype = 0, colour = NA),
         axis.title.y = element_text(colour = 'black', size=rel(1)),
+        axis.text.x = element_text(colour = 'black', size=rel(0.7)),
         strip.text = element_blank()) +
   labs(y = '% of children')
 
 print(the_plot)
-ggsave(the_plot, filename = '02_school_readiness_2019.png', path = save_place, bg = 'transparent', units = 'mm', width = 180, height = 90)
+ggsave(the_plot, filename = '02_school_readiness_2019.png', path = save_place, bg = 'transparent', units = 'mm', width = 160, height = 90)

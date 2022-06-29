@@ -24,10 +24,9 @@ fact_5 <- 'On average 8.8 days of\nsickness per year'
 
 sector_plot <- ggplot(data = sector_data,
                       mapping = aes(x=sector, y=value))+
-  geom_col() +
+  geom_col(fill='#0b53c1') +
   geom_text(label = sector_data$value, nudge_y = ifelse(sector_data$value>5000, -500,500), fontface = 'bold', color = ifelse(sector_data$value<5000, 'black','white')) +
   theme_wsj() +
-  scale_fill_ft() +
   theme(title = element_text(family = "sans", size = rel(1)),
         rect = element_rect(fill = 'transparent', linetype = 0, colour = NA),
         axis.title.y = element_text(colour = 'black', size=rel(1))) +

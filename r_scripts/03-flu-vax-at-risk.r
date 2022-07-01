@@ -19,9 +19,9 @@ inds <- indicators()
 
 
 ### MY VARIABLES
-XXXX <- 30314
-YYYY <- "Population vaccination coverage - Flu (aged 65+)"
-ZZZZ <- "65over_vaccine_flu"
+XXXX <- 30315
+YYYY <- "Population vaccination coverage - Flu (at risk individuals)"
+ZZZZ <- "flu_vax_at_risk_popn"
 
 
 ##
@@ -50,7 +50,7 @@ plot <- ggplot(
   geom_line(size=2) +
   geom_point(shape=21, size=3, fill = 'white', stroke = 3) +
   ##geom_richtext(x='2011 - 13', y=82.5, label=caption, stat = 'unique', color = 'black', hjust=0, fill = NA, label.color = NA, size = rel(5)) +
-  expand_limits(y = c(50, 100)) +
+  expand_limits(y = c(0, 60)) +
   scale_x_discrete(labels = indicator_timeperiod) +
   theme_wsj() +
   scale_color_ft() +

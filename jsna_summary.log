@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2022/dev) (preloaded format=pdflatex 2022.1.23)  29 JUN 2022 11:46
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2022/dev) (preloaded format=pdflatex 2022.1.23)  4 JUL 2022 17:16
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1050,13 +1050,16 @@ LaTeX Warning: Text page 10 contains only floats.
 <images/frs_disability_wsx.png, id=739, 1599.9775pt x 1599.9775pt>
 File: images/frs_disability_wsx.png Graphic file (type png)
 <use images/frs_disability_wsx.png>
-Package pdftex.def Info: images/frs_disability_wsx.png  used on input line 128.
+Package pdftex.def Info: images/frs_disability_wsx.png  used on input line 131.
 (pdftex.def)             Requested size: 382.68953pt x 382.68411pt.
+
+Underfull \vbox (badness 5533) has occurred while \output is active []
+
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [14] [15 <./images/frs_disability_wsx.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 202--202
+Underfull \hbox (badness 10000) in paragraph at lines 205--205
 [][][][][]$\T1/cmtt/m/n/8 https : / / digital . nhs . uk / data-[]and-[]information / publications / statistical /
  []
 
@@ -1067,7 +1070,7 @@ Underfull \vbox (badness 2158) has occurred while \output is active []
 <images/02_school_readiness_2019.png, id=797, 1896.08376pt x 1065.9825pt>
 File: images/02_school_readiness_2019.png Graphic file (type png)
 <use images/02_school_readiness_2019.png>
-Package pdftex.def Info: images/02_school_readiness_2019.png  used on input line 442.
+Package pdftex.def Info: images/02_school_readiness_2019.png  used on input line 445.
 (pdftex.def)             Requested size: 382.68953pt x 215.14459pt.
  [18]
 Underfull \vbox (badness 2753) has occurred while \output is active []
@@ -1510,7 +1513,7 @@ Here is how much of TeX's memory you used:
 pdfTeX warning (dest): name{Hfootnote.90} has been referenced but does not exist, replaced by a fixed one
 
 {/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/inter/a_bal5qf.enc}{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/inter/a_zasxrl.enc}</usr/local/texlive/2021/texmf-dist/fonts/type1/public/inter/Inter-Bold.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/inter/Inter-Italic.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/inter/Inter-Regular.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sftt0800.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sftt1000.pfb>
-Output written on jsna_summary.pdf (58 pages, 5801019 bytes).
+Output written on jsna_summary.pdf (58 pages, 5801022 bytes).
 PDF statistics:
  1531 PDF objects out of 1728 (max. 8388607)
  1222 compressed objects within 13 object streams

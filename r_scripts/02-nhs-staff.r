@@ -10,10 +10,10 @@ library(huxtable)
 # library(ggtext)
 
 # Configure location for source files
-source_place <- '~/Documents/JSNA/latex_summary/data_sources/NHS workforce'
+source_place <- '~/Documents/Projects/JSNA/latex_summary/data_sources/NHS workforce'
 
 # Configure location for saving files
-save_place <- '~/Documents/JSNA/latex_summary/images'
+save_place <- '~/Documents/Projects/JSNA/latex_summary/images'
 
 jan_22_med_staff <- read_csv(paste0(source_place,"/jan-22-medical-staff.csv"))
 jan_22_non_medical_staff <- read_csv(paste0(source_place, "/jan-22-non-medical-staff.csv"))

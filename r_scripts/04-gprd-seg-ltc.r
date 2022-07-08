@@ -3,9 +3,9 @@ library(ggthemes)
 library(hrbrthemes)
 library(ggtext)
 
-source_place <- '~/Documents/JSNA/latex_summary/data_sources/'
+source_place <- '~/Documents/Projects/JSNA/latex_summary/data_sources/'
 
-save_place <- '~/Documents/JSNA/latex_summary/images/'
+save_place <- '~/Documents/Projects/JSNA/latex_summary/images/'
 
 # Specific conditions and percentage of age group identified with LTC
 

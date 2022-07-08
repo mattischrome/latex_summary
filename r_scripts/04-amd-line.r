@@ -4,9 +4,9 @@ library(hrbrthemes)
 library(ggtext)
 library(fingertipsR)
 
-source_place <- '~/Documents/JSNA/latex_summary/data_sources/'
+source_place <- '~/Documents/Projects/JSNA/latex_summary/data_sources/'
 
-save_place <- '~/Documents/JSNA/latex_summary/images/'
+save_place <- '~/Documents/Projects/JSNA/latex_summary/images/'
 
 # Preventable sight loss (AMD)
 le_indicator <- 41201

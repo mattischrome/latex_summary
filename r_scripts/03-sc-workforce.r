@@ -7,7 +7,7 @@ library(hrbrthemes)
 library(ggtext)
 
 # Configure location for saving files
-save_place <- '~/Documents/JSNA/latex_summary/images/'
+save_place <- '~/Documents/Projects/JSNA/latex_summary/images/'
 
 sector_data <- tibble(
   sector = c('Domiciliary Care', 'Residential Care', 'Community', 'Day Services'),

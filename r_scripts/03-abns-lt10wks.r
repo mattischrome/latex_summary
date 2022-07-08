@@ -8,10 +8,10 @@ library(ggthemes)
 library(ggtext)
 
 # Configure location for source files
-source_place <- '~/Documents/JSNA/latex_summary/data_sources'
+source_place <- '~/Documents/Projects/JSNA/latex_summary/data_sources'
 
 # Configure location for saving files
-save_place <- '~/Documents/JSNA/latex_summary/images'
+save_place <- '~/Documents/Projects/JSNA/latex_summary/images'
 
 # We don't use the fingertips package for this as it doesn't return local authority
 # level data. Instead we'll build a tibble based on data from the fingertips website.

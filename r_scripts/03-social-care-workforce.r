@@ -2,7 +2,7 @@
 library(tidyverse)
 library(patchwork)
 
-save_place <- '~/Documents/JSNA/latex_summary/images/'
+save_place <- '~/Documents/Projects/JSNA/latex_summary/images/'
 
 gg.gauge <- function(pos,the_title,the_subtitle,breaks=c(0,30,70,100)) {
   require(ggplot2)

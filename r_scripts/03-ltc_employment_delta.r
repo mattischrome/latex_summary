@@ -15,14 +15,14 @@ makeSortable <- function(Year, Quarter){
 }
 
 # Configure location for source files
-source_place <- '~/Documents/JSNA/latex_summary/data_sources/'
+source_place <- '~/Documents/Projects/JSNA/latex_summary/data_sources/'
 
 # Configure location for saving files
-save_place <- '~/Documents/JSNA/latex_summary/images'
+save_place <- '~/Documents/Projects/JSNA/latex_summary/images'
 
 # Read in the data 
 # Need to clean off the footnotes from the year figures
-ltc <- read_csv(file = '~/Documents/JSNA/latex_summary/data_sources/NHSOF_2.2_I00707_D.csv') %>% 
+ltc <- read_csv(file = '~/Documents/Projects/JSNA/latex_summary/data_sources/NHSOF_2.2_I00707_D.csv') %>% 
   separate(Year,into = c('Year','Note'),sep = 4) %>% 
   select(-Note) %>% 
   mutate(Year = as.numeric(Year)) %>% 

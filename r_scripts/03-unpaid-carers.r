@@ -2,8 +2,8 @@ library(tidyverse)
 library(ggthemes)
 library(hrbrthemes)
 
-data_place <- '~/Documents/JSNA/latex_summary/data_sources/'
-save_place <- '~/Documents/JSNA/latex_summary/images/'
+data_place <- '~/Documents/Projects/JSNA/latex_summary/data_sources/'
+save_place <- '~/Documents/Projects/JSNA/latex_summary/images/'
 
 # Census table
 unpaid_carer_data <- read_csv(paste0(data_place,'wsx_dabs_carers_age_sex_2011_census_simple.csv'))

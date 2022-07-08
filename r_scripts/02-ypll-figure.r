@@ -5,8 +5,8 @@ library(ggthemes)
 library(hrbrthemes)
 library(ggtext)
 
-source_place <- "~/Documents/JSNA/latex_summary/data_sources/"
-save_place <- "~/Documents/JSNA/latex_summary/images"
+source_place <- "~/Documents/Projects/JSNA/latex_summary/data_sources/"
+save_place <- "~/Documents/Projects/JSNA/latex_summary/images"
 
 ypll_u75_all <- read_csv(paste0(source_place, "ypll_u75_wsx_pcns.csv"))
 plot_meta <- tibble(

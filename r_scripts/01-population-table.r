@@ -8,7 +8,7 @@
 library(tidyverse)
 library(huxtable)
 
-data_source <- '~/Documents/JSNA/latex_summary/data_sources/'
+data_source <- '~/Documents/Projects/JSNA/latex_summary/data_sources/'
 
 # For some reason ests get read in as nums and projs as ints - WHY?!?!?! FFS
 # So I'm having to force col_types

@@ -7,7 +7,7 @@ library(gridtext)
 
 # Bonus points if I can get descriptive text worked in as well
 
-setwd('~/Documents/JSNA/latex_summary/r_scripts/')
+setwd('~/Documents/Projects/JSNA/latex_summary/r_scripts/')
 
 # This source of the code is slow and includes redundant lines
 

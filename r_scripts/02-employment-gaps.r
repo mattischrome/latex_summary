@@ -5,7 +5,7 @@ library(ggthemes)
 library(ggtext)
 
 # Configure location for saving files
-save_place <- '~/Documents/JSNA/latex_summary/images'
+save_place <- '~/Documents/Projects/JSNA/latex_summary/images'
 the_measures <- c('**with a long-term health condition**','**with learning disabilities**','**in contact with secondary mental health services**')
 plot_tbl <- tibble(
   measures = the_measures,

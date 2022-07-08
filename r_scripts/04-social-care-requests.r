@@ -3,10 +3,10 @@ library(ggthemes)
 library(hrbrthemes)
 
 # Configure location for source files
-source_place <- '~/Documents/JSNA/latex_summary/data_sources/'
+source_place <- '~/Documents/Projects/JSNA/latex_summary/data_sources/'
 
 # Configure location for saving files
-save_place <- '~/Documents/JSNA/latex_summary/images'
+save_place <- '~/Documents/Projects/JSNA/latex_summary/images'
 
 requests_data <- tibble(
   year = rep(c(rep('2018/19',2), rep('2019/20',2), rep('2020/21',2)),2),

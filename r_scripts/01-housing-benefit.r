@@ -1,7 +1,7 @@
 library(tidyverse)
 
-source_dir <- '~/Documents/JSNA/latex_summary/data_sources/'
-output_dir <- '~/Documents/JSNA/latex_summary/images/'
+source_dir <- '~/Documents/Projects/JSNA/latex_summary/data_sources/'
+output_dir <- '~/Documents/Projects/JSNA/latex_summary/images/'
 
 housing_benefits <- read_csv(paste0(source_dir,'Housing-benefit-recipients-nov-21.csv'))
 

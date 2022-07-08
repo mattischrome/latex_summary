@@ -3,7 +3,7 @@ library(ggthemes)
 library(hrbrthemes)
 
 # Configure location for saving files
-save_place <- '~/Documents/JSNA/latex_summary/images'
+save_place <- '~/Documents/Projects/JSNA/latex_summary/images'
 
 the_data <- tibble(
   location = c('England','West Sussex','Worthing','Adur','Arun','Crawley','Chichester','Horsham','Mid Sussex'),

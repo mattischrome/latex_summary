@@ -5,10 +5,10 @@ library(hrbrthemes)
 library(ggtext)
 
 # Configure location for source files
-source_place <- '~/Documents/JSNA/latex_summary/data_sources/'
+source_place <- '~/Documents/Projects/JSNA/latex_summary/data_sources/'
 
 # Configure location for saving files
-save_place <- '~/Documents/JSNA/latex_summary/images'
+save_place <- '~/Documents/Projects/JSNA/latex_summary/images'
 
 cols_for_plot <- c('Cause of death','Sex','Percentage contribution to the gap (%)')
 phe_data <- read_csv(file = paste0(source_place,'BroadCause.csv'))

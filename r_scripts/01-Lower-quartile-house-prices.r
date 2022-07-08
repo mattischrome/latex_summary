@@ -2,7 +2,7 @@ library(tidyverse)
 library(ggthemes)
 library(hrbrthemes)
 
-setwd('~/Documents/JSNA/latex_summary/')
+setwd('~/Documents/Projects/JSNA/latex_summary/')
 
 source_place <- paste0(getwd(),'/data_sources')
 save_place <- pasete0(getwd(),'/images')

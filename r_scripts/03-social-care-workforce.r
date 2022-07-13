@@ -36,8 +36,8 @@ gg.gauge <- function(pos,the_title,the_subtitle,breaks=c(0,30,70,100)) {
 
 
 
-dial_1 <- gg.gauge(6,'Vacancy rate\n\n','The vacancy rate in\n2020/21 equated to\n1,410 jobs\n')
-dial_2 <- gg.gauge(33,'Turnover rate\n\n','The rate in 2020/21\nequated to 7,800\nleavers\n')
+dial_1 <- gg.gauge(6,'Vacancy rate\n\n','The vacancy rate in\n2020/21 equated to\n1,300 jobs\n')
+dial_2 <- gg.gauge(33,'Turnover rate\n\n','The rate in 2020/21\nequated to 6,800\nleavers\n')
 dial_3 <- gg.gauge(63,'Percentage of staff\nremaining in same\nsector','')
 
 all_the_dials <- dial_1 + dial_2 + dial_3

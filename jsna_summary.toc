@@ -70,7 +70,7 @@
 \contentsline {subsubsection}{\numberline {3.4.1}Health and Social Care Workforce - Primary Care}{25}{subsubsection.3.4.1}%
 \contentsline {paragraph}{Primary Care Staffing}{25}{paragraph*.48}%
 \contentsline {subsection}{\numberline {3.5}Health and Social Care Workforce - Social Care / Care Benefits}{25}{subsection.3.5}%
-\contentsline {paragraph}{Attendance Allowance - May 2019 (Rounded to nearest 10)}{25}{paragraph*.52}%
+\contentsline {paragraph}{Attendance Allowance - November 2021 (Rounded to nearest 10)}{25}{paragraph*.52}%
 \contentsline {paragraph}{Carers Allowance - November 2021 (Rounded to nearest 10)}{25}{paragraph*.54}%
 \contentsline {subsection}{\numberline {3.6}Unpaid Care}{26}{subsection.3.6}%
 \contentsline {paragraph}{Unpaid Care}{26}{paragraph*.57}%
